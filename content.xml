@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261017124244V98JNE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261017124244TK9TZ2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Área e Perímetro de Figuras Planas - Parte I - (Quadriláteros e triângulos)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Ensino de Área e Perímetro de Figuras Geométrica Planas para alunos dos anos finais do Ensino Fundamental.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Aldo Camara &amp; Robson Leal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta atividade foi desenvolvida para turmas dos anos finais do Ensino Fundamental, permitindo adaptações de acordo com a necessidade do ano escolar. Nela, os alunos resolvem situações-problema que envolvem o cálculo de perímetro e área de figuras planas, como triângulos, quadrados, retângulos, trapézios e paralelogramos .
+
+Objetivo Geral: 
+Desenvolver o raciocínio lógico, interpretação de problemas e resolução de situações do cotidiano; 
+Compreender com clareza a diferença fundamental entre as grandezas de área e perímetro;
+Identificar, deduzir e aplicar corretamente as fórmulas matemáticas para o cálculo de áreas de figuras planas.
+
+Habilidade Específica:
+EF08MA19: Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área em situações práticas.
+
+Contextualização Prática e Aplicações:
+Relacionar os conhecimentos geométricos a cenários reais, tais como:
+   - Projetos de construções e reformas.
+   - Organização e otimização de espaços físicos.
+   - Planejamento de ambientes e dimensionamento de superfícies.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>pt</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794861876362</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mvcjtasb-ek2ba586n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUÇÃO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUÇÃO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INÍCIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INTRODUÇÃO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvcjtasb-ek2ba586n</odePageId>
+      <odeBlockId>block-mvctrgf8-g8vbg1kxg</odeBlockId>
+      <blockName>Sejam Bem-Vindos!</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvcjtasb-ek2ba586n</odePageId>
+          <odeBlockId>block-mvctrgf8-g8vbg1kxg</odeBlockId>
+          <odeIdeviceId>idevice-1792267446497-v66xfs705</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta atividade tem por finalidade mostrar conceitos sobre área e perímetro, transformando cada desafio em uma verdadeira missão! Testando suas habilidades em uma jornada interativa onde cada passo leva você mais longe.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mceclip0.png" width="626" height="342" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: center;"><span style="color: #3598db; font-size: 18pt;"><em>Dê o seu melhor e vamos juntos desvendar os segredos da geometria!</em></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792267446497-v66xfs705","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p style=\"text-align: justify;\">Esta atividade tem por finalidade mostrar conceitos sobre área e perímetro, transformando cada desafio em uma verdadeira missão! Testando suas habilidades em uma jornada interativa onde cada passo leva você mais longe.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"626\" height=\"342\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #3598db; font-size: 18pt;\"><em>Dê o seu melhor e vamos juntos desvendar os segredos da geometria!</em></span></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INÍCIO DAS MISSÕES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INÍCIO DAS MISSÕES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECONHECIMENTO E INÍCIO DAS MISSÕES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INÍCIO DAS MISSÕES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+      <odeBlockId>block-mvnztngc-0lk4sf4cp</odeBlockId>
+      <blockName>Missão 1 - Reconhecimento  das Formas Geométricas</blockName>
+      <iconName>asset://4b09acd9-533a-1a7f-f1fe-a6dca9d889f1.jpeg</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+          <odeBlockId>block-mvnztngc-0lk4sf4cp</odeBlockId>
+          <odeIdeviceId>idevice-1792882786265-w418hg6n6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-left" style="width: 462px;"><img src="{{context_path}}/content/resources/Portfólio - Aldo Camara (2).png" alt="" width="462" height="379" />
+<figcaption class="figcaption" contenteditable="true"></figcaption>
+</figure>
+<p style="text-align: justify;"><span style="font-size: 18pt;"> </span><span style="font-size: 18pt;">  </span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"></span><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">  <span style="background-color: #fbeeb8;"><strong><span style="font-size: 24pt; background-color: #fbeeb8;"> Desafio do dia!</span></strong></span> </span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">Entre na galeria de imagens abaixo, ou passe o mouse em cima da figura para saber um pouco mais.</span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">    </span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792882786265-w418hg6n6","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<figure class=\"exe-figure float-left\" style=\"width: 462px;\"><img src=\"{{context_path}}/content/resources/Portfólio - Aldo Camara (2).png\" alt=\"\" width=\"462\" height=\"379\" />\n<figcaption class=\"figcaption\" contenteditable=\"true\"></figcaption>\n</figure>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"> </span><span style=\"font-size: 18pt;\">  </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"></span><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\">  <span style=\"background-color: #fbeeb8;\"><strong><span style=\"font-size: 24pt; background-color: #fbeeb8;\"> Desafio do dia!</span></strong></span> </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">Entre na galeria de imagens abaixo, ou passe o mouse em cima da figura para saber um pouco mais.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">    </span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+      <odeBlockId>block-mvctsx4m-86f80mbxv</odeBlockId>
+      <blockName>Na vida real, em quais objetos ou lugares podemos observar formas geométricas?</blockName>
+      <iconName>asset://815d8825-d016-5e8d-f436-a8268ed68c52.jpeg</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+          <odeBlockId>block-mvctsx4m-86f80mbxv</odeBlockId>
+          <odeIdeviceId>idevice-1792267514805-w3vr34b5u</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="No formato de um lago." href="{{context_path}}/content/resources/Lago.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Lago.jpeg" height="128" width="128" title="No formato de um lago." alt="No formato de um lago." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Na estrutura de armações de casas." href="{{context_path}}/content/resources/estufa.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/estufa.jpeg" height="128" width="128" title="Na estrutura de armações de casas." alt="Na estrutura de armações de casas." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="No contorno de uma cerca." href="{{context_path}}/content/resources/Terreno.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Terreno.jpeg" height="128" width="128" title="No contorno de uma cerca." alt="No contorno de uma cerca." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Na construção de uma ponte." href="{{context_path}}/content/resources/Ponte.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Ponte.jpeg" height="128" width="128" title="Na construção de uma ponte." alt="Na construção de uma ponte." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_4" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Em casas e telhados." href="{{context_path}}/content/resources/Casa Alpina com Medidas do Telhado.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Casa Alpina com Medidas do Telhado.png" height="128" width="128" title="Em casas e telhados." alt="Em casas e telhados." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_5" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="No formato de portas e janelas." href="{{context_path}}/content/resources/Casa (Interior).jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Casa (Interior).jpeg" height="128" width="128" title="No formato de portas e janelas." alt="No formato de portas e janelas." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_6" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Na vela de um barco." href="{{context_path}}/content/resources/image_cc89e4ca.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/image_cc89e4ca.jpg" height="128" width="128" title="Na vela de um barco." alt="Na vela de um barco." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_7" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Nos pisos de uma casa." href="{{context_path}}/content/resources/image_a066348b.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/image_a066348b.jpg" height="128" width="128" title="Nos pisos de uma casa." alt="Nos pisos de uma casa." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_8" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="No canteiro de flores." href="{{context_path}}/content/resources/image_31073553.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/image_31073553.jpg" height="128" width="128" title="No canteiro de flores." alt="No canteiro de flores." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_9" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Nas medidas de um campo de futebol." href="{{context_path}}/content/resources/image_b74ab30b.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/image_b74ab30b.jpg" height="128" width="128" title="Nas medidas de um campo de futebol." alt="Nas medidas de um campo de futebol." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_10" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Até na bandeira do Brasil." href="{{context_path}}/content/resources/Brasil.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Brasil.jpeg" height="128" width="128" title="Até na bandeira do Brasil." alt="Até na bandeira do Brasil." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_11" class="imageContainer"> <a idevice-id="idevice-1792267514805-w3vr34b5u" title="Com estas e muitas outras formas podemos calcular as suas áreas e perímetros." href="{{context_path}}/content/resources/ÁREA = 12 cm² PRÍMÉTRO = 16 cm.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ÁREA = 12 cm² PRÍMÉTRO = 16 cm.png" height="128" width="128" title="Com estas e muitas outras formas podemos calcular as suas áreas e perímetros." alt="Com estas e muitas outras formas podemos calcular as suas áreas e perímetros." titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792267514805-w3vr34b5u","img_0":{"img":"{{context_path}}/content/resources/Lago.jpeg","thumbnail":"{{context_path}}/content/resources/Lago.jpeg","title":"No formato de um lago.","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/estufa.jpeg","thumbnail":"{{context_path}}/content/resources/estufa.jpeg","title":"Na estrutura de armações de casas.","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Terreno.jpeg","thumbnail":"{{context_path}}/content/resources/Terreno.jpeg","title":"No contorno de uma cerca.","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/Ponte.jpeg","thumbnail":"{{context_path}}/content/resources/Ponte.jpeg","title":"Na construção de uma ponte.","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/Casa Alpina com Medidas do Telhado.png","thumbnail":"{{context_path}}/content/resources/Casa Alpina com Medidas do Telhado.png","title":"Em casas e telhados.","linktitle":"","author":"","linkauthor":"","license":""},"img_5":{"img":"{{context_path}}/content/resources/Casa (Interior).jpeg","thumbnail":"{{context_path}}/content/resources/Casa (Interior).jpeg","title":"No formato de portas e janelas.","linktitle":"","author":"","linkauthor":"","license":""},"img_6":{"img":"{{context_path}}/content/resources/image_cc89e4ca.jpg","thumbnail":"{{context_path}}/content/resources/image_cc89e4ca.jpg","title":"Na vela de um barco.","linktitle":"","author":"","linkauthor":"","license":""},"img_7":{"img":"{{context_path}}/content/resources/image_a066348b.jpg","thumbnail":"{{context_path}}/content/resources/image_a066348b.jpg","title":"Nos pisos de uma casa.","linktitle":"","author":"","linkauthor":"","license":""},"img_11":{"img":"{{context_path}}/content/resources/image_31073553.jpg","thumbnail":"{{context_path}}/content/resources/image_31073553.jpg","title":"No canteiro de flores.","linktitle":"","author":"","linkauthor":"","license":""},"img_8":{"img":"{{context_path}}/content/resources/image_b74ab30b.jpg","thumbnail":"{{context_path}}/content/resources/image_b74ab30b.jpg","title":"Nas medidas de um campo de futebol.","linktitle":"","author":"","linkauthor":"","license":""},"img_9":{"img":"{{context_path}}/content/resources/Brasil.jpeg","thumbnail":"{{context_path}}/content/resources/Brasil.jpeg","title":"Até na bandeira do Brasil.","linktitle":"","author":"","linkauthor":"","license":""},"img_10":{"img":"{{context_path}}/content/resources/ÁREA = 12 cm² PRÍMÉTRO = 16 cm.png","thumbnail":"{{context_path}}/content/resources/ÁREA = 12 cm² PRÍMÉTRO = 16 cm.png","title":"Com estas e muitas outras formas podemos calcular as suas áreas e perímetros.","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+      <odeBlockId>block-mwgx3c2f-2lyag2zce</odeBlockId>
+      <blockName>Poste uma foto de um objeto ou lugar, escrevendo quais figuras geométricas você consegue observar.</blockName>
+      <iconName>asset://f48de945-8de0-69b6-50ff-2d1cdca3bd30.png</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwh7my0v-5lny1ji9x</odePageId>
+          <odeBlockId>block-mwgx3c2f-2lyag2zce</odeBlockId>
+          <odeIdeviceId>idevice-1794691686599-vele4q2iy</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/rsleal2/formas-geometricas-em-sua-volta-s025gqkh96dusyq3kmgi" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Incapaz de exibir um iframe carregado via HTTP em um site que usa HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvcjmf4m-0gowuhx93</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ÁREA E PERÍMETRO: QUAL A DIFERENÇA?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ÁREA E PERÍMETRO: QUAL A DIFERENÇA?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ÁREA E PERÍMETRO: QUAL A DIFERENÇA?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ÁREA E PERÍMETRO: QUAL A DIFERENÇA?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvcjmf4m-0gowuhx93</odePageId>
+      <odeBlockId>block-mvmpnacb-1mjviuc0u</odeBlockId>
+      <blockName>Atenção Tripulante!</blockName>
+      <iconName>mi-contract</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvcjmf4m-0gowuhx93</odePageId>
+          <odeBlockId>block-mvmpnacb-1mjviuc0u</odeBlockId>
+          <odeIdeviceId>idevice-1792865195289-f93piqf9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="{{context_path}}/content/resources/Missão.jpeg" width="738" height="403" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+<p><br /></p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt; color: #e67e23;">Assista ao vídeo a seguir para se preparar para a missão.</span></strong></p>
+<p><br /></p>
+<p style="text-align: center;"><video width="356" height="200" controls="controls">
+<source src="{{context_path}}/content/resources/WhatsApp Video 2026-11-14 at 16.49.10.mp4" type="video/mp4" /></video></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792865195289-f93piqf9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/Missão.jpeg\" width=\"738\" height=\"403\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 18pt; color: #e67e23;\">Assista ao vídeo a seguir para se preparar para a missão.</span></strong></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><video width=\"356\" height=\"200\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/WhatsApp Video 2026-11-14 at 16.49.10.mp4\" type=\"video/mp4\" /></video></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvcjmf4m-0gowuhx93</odePageId>
+      <odeBlockId>block-mwjkcxen-p72oq4fir</odeBlockId>
+      <blockName>Pense bem!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvcjmf4m-0gowuhx93</odePageId>
+          <odeBlockId>block-mwjkcxen-p72oq4fir</odeBlockId>
+          <odeIdeviceId>idevice-1794851697693-ix5dg721f</odeIdeviceId>
+          <odeIdeviceTypeName>classify</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="clasifica-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1794851697693-ix5dg721f" data-evaluationb="false" data-evaluationid="6d54035b-3a4a-4f20-a1f3-33c60e60a769"></div><div class="clasifica-feedback-game"></div><div class="clasifica-instructions"><p style="text-align: center;"><span style="font-size: 18pt;">Arraste cada carta para o recipiente correto de acordo com o tipo de problema (<strong><span style="color: #e67e23;">área ou perímetro</span></strong>).</span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"></span><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/Portfólio - Aldo Camara (3).png" width="411" height="224" alt="" /></span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"></span><br /></p></div><div class="clasifica-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%FB%F4%FB%F1%F3%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%AA%E2%E6%A9%CE%B0%AC%D3%E0%E0%F3%E1%E6%F7%B2%F1%F3%F6%F3%B2%F1%F3%E0%E6%F3%B2%E2%F3%E0%F3%B2%FD%B2%E0%F7%F1%FB%E2%FB%F7%FC%E6%F7%B2%F1%FD%E0%E0%F7%E6%FD%B2%F6%F7%B2%F3%F1%FD%E0%F6%FD%B2%F1%FD%FF%B2%FD%B2%E6%FB%E2%FD%B2%F6%F7%B2%E2%E0%FD%F0%FE%F7%FF%F3%B2%BA%AE%E1%E6%E0%FD%FC%F5%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F1%FD%FE%FD%E0%A8%B2%B1%F7%A4%A5%F7%A0%A1%A9%CE%B0%ACs%E0%F7%F3%B2%FD%E7%B2%E2%F7%E0%7F%FF%F7%E6%E0%FD%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E6%E0%FD%FC%F5%AC%BB%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%AA%E2%E6%A9%CE%B0%AC%AE%BD%E1%E2%F3%FC%AC%AE%F0%E0%B2%BD%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%AA%E2%E6%A9%CE%B0%AC%AE%FB%FF%F5%B2%E1%E0%F1%AF%CE%B0%F3%E1%E1%F7%E6%A8%BD%BD%A2%A6%AA%A1%F0%A3%F0%A1%BF%A3%F3%F3%F0%BF%F1%A6%F3%F3%BF%F6%F3%A3%AB%BF%F6%A6%AA%F1%AB%F7%F1%F3%A7%AA%F6%F4%BC%E2%FC%F5%CE%B0%B2%E5%FB%F6%E6%FA%AF%CE%B0%A6%A3%A3%CE%B0%B2%FA%F7%FB%F5%FA%E6%AF%CE%B0%A0%A0%A6%CE%B0%B2%F3%FE%E6%AF%CE%B0%CE%B0%B2%BD%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%AA%E2%E6%A9%CE%B0%AC%AE%BD%E1%E2%F3%FC%AC%AE%F0%E0%B2%BD%AC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A0%F1%A7%F1%F0%AB%A3%A3%BF%AB%A5%A3%A7%BF%F0%F3%A6%A1%BF%A6%F7%F1%F4%BF%AA%A7%F7%A1%A1%A5%F7%A3%F3%AB%F7%A0%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A6%F0%F6%AA%F6%AB%F7%F0%BF%A1%A2%A0%AB%BF%A5%F7%AB%F7%BF%A5%A0%A6%F3%BF%A2%AB%A0%A7%A7%A7%A1%A7%A1%A3%F0%A7%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A6%A3%A3%A6%F1%AA%F0%A2%BF%F1%A4%A7%F0%BF%F3%A6%AA%F3%BF%AA%A1%F7%A1%BF%A6%A0%A5%A2%AA%F0%F1%A5%A4%A7%AA%F0%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A7%F7%AA%A4%A3%A3%A3%A2%BF%F3%F1%A6%AB%BF%AA%AB%AB%A6%BF%A3%A7%F3%A4%BF%A1%F6%A2%F0%A5%F7%AB%F4%A7%A1%A7%AA%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F1%A5%AA%F0%A4%A2%F7%A7%BF%A4%F4%A5%F3%BF%F7%F7%F6%A3%BF%F7%F6%A3%A7%BF%A1%F3%F4%A7%F3%AB%A2%AA%F7%A6%A1%AB%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%EA%B0%A8%FC%E7%FE%FE%BE%B0%EB%B0%A8%FC%E7%FE%FE%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A3%A1%A4%A3%AB%F4%A2%F1%BF%F3%F7%F1%A3%BF%F0%A2%A3%A6%BF%A3%A6%F0%A5%BF%A5%F0%F0%AB%A5%A3%A4%A1%A5%A5%F0%A3%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%BE%B0%F5%E0%FD%E7%E2%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%FE%E4%F3%E0%B2%E2%FD%FC%E6%E7%F3uq%FD%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%AA%E2%E6%B7%A1%D0%B7%A0%A2%F1%FD%FE%FD%E0%B7%A1%D3%B7%A0%A2%B7%A0%A1%F7%A4%A5%F7%A0%A1%B7%A1%D0%B7%A0%A0%B7%A1%D7%C6%E7%F6%FD%B7%A0%A2%E2%E0%FD%FC%E6%FD%B7%A0%A3%B7%A0%A2%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F1%FD%FE%FD%E0%B7%A1%D3%B7%A0%A2%B7%A0%A1%A2%A2%A2%A2%A2%A2%B7%A1%D0%B7%A0%A0%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%AA%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%D7%E1%E6%FD%E7%B7%A0%A2%E6%F7%B7%A0%A2%F7%E1%E2%F7%E0%F3%FC%F6%FD%B7%A0%A2%E2%F3%E0%F3%B7%A0%A2%E2%F3%E0%E6%FB%E0%FF%FD%E1%B7%A0%A2%F8%E7%FC%E6%FD%E1%B7%A0%A2%E0%E7%FF%FD%B7%A0%A2%B7%D7%A2%B7%A0%A2%E2%E0%B7%D4%A1%EA%FB%FF%F3%B7%A0%A2%FF%FB%E1%E1%B7%D7%A1%FD%B7%A0%A3%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%AA%E2%E6%B7%A1%D0%B7%A0%A2%F1%FD%FE%FD%E0%B7%A1%D3%B7%A0%A2%B7%A0%A1%F7%A4%A5%F7%A0%A1%B7%A1%D0%B7%A0%A0%B7%A1%D7%B7%A1%D1%FB%FF%F5%B7%A0%A2%E1%E0%F1%B7%A1%D6%B7%A0%A0%F3%E1%E1%F7%E6%B7%A1%D3%BD%BD%A2%A4%A1%A5%AB%A6%F0%F4%BF%A0%A3%A5%F3%BF%F4%F1%A4%A5%BF%A7%A4%A1%A0%BF%AB%A7%A1%F7%A6%F4%F3%A4%F6%F3%F3%A1%BC%E2%FC%F5%B7%A0%A0%B7%A0%A2%E5%FB%F6%E6%FA%B7%A1%D6%B7%A0%A0%A7%A2%AB%B7%A0%A0%B7%A0%A2%FA%F7%FB%F5%FA%E6%B7%A1%D6%B7%A0%A0%A0%A5%AA%B7%A0%A0%B7%A0%A2%F3%FE%E6%B7%A1%D6%B7%A0%A0%B7%A0%A0%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F6%FB%E1%E2%FE%F3%EB%B7%A1%D3%B7%A0%A2%F0%FE%FD%F1%F9%B7%A1%D0%B7%A0%A2%FF%F3%E0%F5%FB%FC%BF%FE%F7%F4%E6%B7%A1%D3%B7%A0%A2%F3%E7%E6%FD%B7%A1%D0%B7%A0%A2%FF%F3%E0%F5%FB%FC%BF%E0%FB%F5%FA%E6%B7%A1%D3%B7%A0%A2%F3%E7%E6%FD%B7%A1%D0%B7%A0%A0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E1%E6%E0%FD%FC%F5%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A2%BC%AA%BE%B0%F5%E0%FD%E7%E2%E1%B0%A8%C9%B0%C2%D7%C0_%DF%D7%C6%C0%DD%B0%BE%B0S%C0%D7%D3%B0%BE%B0%D5%E0%E7%E2%FD%B2%A1%B0%BE%B0%D5%E0%E7%E2%FD%B2%A6%B0%BE%B0%D5%E0%E7%E2%FD%B2%A7%B0%BE%B0%D5%E0%E7%E2%FD%B2%A4%B0%BE%B0%D5%E0%E7%E2%FD%B2%A5%B0%BE%B0%D5%E0%E7%E2%FD%B2%AA%B0%BE%B0%D5%E0%E7%E2%FD%B2%AB%B0%CF%BE%B0%FC%E7%FF%F0%F7%E0%D5%E0%FD%E7%E2%E1%B0%A8%A0%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%B0%A8%A3%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A4%F6%A7%A6%A2%A1%A7%F0%BF%A1%F3%A6%F3%BF%A6%F4%A0%A2%BF%F3%A3%F4%A1%BF%A1%A1%F1%A4%A2%F7%A4%A2%F3%A5%A4%AB%B0%BE%B0%E2%F3%E1%E1%C1%F1%FD%E0%F7%DF%FD%F6%F7%B0%A8%B0%F5%FE%FD%F0%F3%FE%B0%BE%B0%E2%F3%E1%E1%C1%F1%FD%E0%F7%D1%E7%E1%E6%FD%FF%B0%A8%A7%BE%B0%FB%FF%F5%D1%F3%E0%F6%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F1%F7%A6%AA%A2%A0%F1%F1%BF%F3%A0%A2%F6%BF%A7%F7%A2%F4%BF%A1%A6%A2%A3%BF%F1%F0%A2%A1%AA%A7%F3%AB%A7%A7%A5%F4%BC%F8%E2%F5%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A6%AA%A7%A3%A4%AB%A5%A4%AB%A1%BF%FB%EA%A7%F6%F5%A5%A0%A3%F4%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%DE%F7%F5%F3%FE%B3%B2%D3%B2%F6%FB%F1%F3%B2%7B%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F7%E1%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%FD%F5%F3%E0%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%E3%E7%F7%B2%F3%E3%E7%FB%B2%E2%F3%E0%F3%B2%F8%FD%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%FC%E6%E7%F3uq%FD%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C6%F7%FE%F3%B2%D1%FA%F7%FB%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FB%E0%B2%F6%F3%B2%C6%F7%FE%F3%B2%D1%FA%F7%FB%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%F7%E0%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%F7%E0%F5%E7%FC%E6%F3%B2%E1%F7%FF%B2%FB%FF%F3%F5%F7%FF%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B0%DE%F7%F5%F3%FE%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%D1%F7%E0%E6%FD%B3%B2%EE%B2%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B2A%E6%FB%FF%FD%B3%B2%EE%B2%DF%E7%FB%E6%FD%B2%F0%FD%FF%B3%B2%EE%B2%C2%F7%E0%F4%F7%FB%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DCq%FD%B2%F4%FD%FB%B2%FB%E1%E1%FD%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%E6%FD%B3%B2%EE%B2%DCq%FD%B2%F7%E1%E6s%B2%F1%FD%E0%E0%F7%E6%FD%B3%B2%EE%B2%D6%F7%E1%F1%E7%FE%E2%F7%B3%B2%EE%B2%D7%E0%E0%FD%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%C4%FD%F1x%B2%E2%E0%F7%F1%FB%E1%F3%B2%F6%F7%B2%E2%F7%FE%FD%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%FD%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%E0%B2%F3%B2%FB%FC%F4%FD%E0%FF%F3uq%FD%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%F1%FD%FF%F7%F1%F7%B2%FD%B2%F8%FD%F5%FD%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%E1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%D3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%FCq%FD%B2%E2%FD%F6%F7%B2%E1%F7%E0%B2%E1%F3%FE%E4%F3%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FCq%FD%B2%F4%F3%E8%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%E7%FF%B2%E2%F3%F1%FD%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E7%FF%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%E7%FF%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3uq%FD%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F7%E0s%B2%E1%F3%FE%E4%F3%B2%F3%E2a%E1%B2%F1%F3%F6%F3%B2%E2%F7%E0%F5%E7%FC%E6%F3%BC%B2%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%F8%FD%F5%F3%E0%B2%E7%FF%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F7%E0s%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%E1%F3%FE%E4%F3%B2%F3%E2a%E1%B2%F1%F3%F6%F3%B2%E2%F7%E0%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C4%FD%F1x%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E3%E7%F3%FC%E6%F3%E1%B2%E4%F7%E8%F7%E1%B2%E3%E7%FB%E1%F7%E0%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%D3%B2h%FE%E6%FB%FF%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F3%FE%E4%F3%B2%7B%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%C4%FD%F1x%B2%F8s%B2%E0%F7%F3%FE%FB%E8%FD%E7%B2%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C4%FD%F1x%B2%E2%FD%F6%F7%B2%F4%F3%E8%F7%E0%B2%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%B2%E3%E7%F3%FC%E6%F3%E1%B2%E4%F7%E8%F7%E1%B2%E3%E7%FB%E1%F7%E0%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D4%F7%F1%FA%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0S%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%CB%F7%E1%B0%A8%B0%C1%FB%FF%B0%BE%B0%FF%E1%F5%DC%FD%B0%A8%B0%DCq%FD%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%DD%B2%E6%F7%FF%E2%FD%B2%F3%F1%F3%F0%FD%E7%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%DD%B2%F8%FD%F5%FD%B2%F1%FD%FF%F7u%FD%E7%B3%B2%D3%E0%E0%F3%E1%E6%F7%B2%F1%F3%F6%F3%B2%F1%F3%E0%E6%F3%B2%E2%F3%E0%F3%B2%E1%F7%E7%B2%E0%F7%F1%FB%E2%FB%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%D7%E1%F1%FD%FE%FA%F3%B2%FD%E7%E6%E0%F3%B2%F1%F3%E0%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%D7%E1%F1%FD%FE%FA%F3%B2%E7%FF%F3%B2%F1%F3%E0%E6%F3%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%C2%F3%E1%E1%F7%F6%B0%A8%B0%D0%E0%FB%FE%FA%F3%FC%E6%F7%B3%B2%C4%FD%F1x%B2%E2%F3%E1%E1%FD%E7%B2%FC%FD%B2%E6%F7%E1%E6%F7%B3%B0%BE%B0%FF%E1%F5%C6%F7%E1%E6%D4%F3%FB%FE%F7%F6%B0%A8%B0%C4%FD%F1x%B2%FCq%FD%B2%E2%F3%E1%E1%FD%E7%B2%FC%FD%B2%E6%F7%E1%E6%F7%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F7%F8%F3%B2%E0%F7%FB%FC%FB%F1%FB%F3%E0%B2%F7%E1%E6%F7%B2%F8%FD%F5%FD%AD%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%FB%FC%E7%F7%B0%A8%B0%D1%FD%FC%E6%FB%FC%E7%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D3%FC%E1%E5%F7%E0%E1%B0%A8%B0%C4%F7%E0%FB%F4%FB%F1%F3%E0%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DA%F3%E4%FB%F3%B2%B7%E1%B2%F1%F3%E0%E6%F3%E1%B2%E2%F3%E0%F3%B2%E1%F7%E0%F7%FF%B2%F1%FD%FE%FD%F1%F3%F6%F3%E1%B2%F1%FD%E0%E0%F7%E6%F3%FF%F7%FC%E6%F7%BC%B2%D6%F7%E1%F7%F8%F3%B2%E6%F7%FC%E6%F3%E0%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%AD%B0%BE%B0%FF%E1%F5%D3%FE%FE%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D0%E0%FB%FE%FA%F3%FC%E6%F7%B3%B2%C6%E7%F6%FD%B2%E2%F7%E0%F4%F7%FB%E6%FD%B3%B0%BE%B0%FF%E1%F5%C6%FD%FD%DF%F3%FC%EB%C6%E0%FB%F7%E1%B0%A8%B0A%E6%FB%FF%FD%B2%E6%E0%F3%F0%F3%FE%FA%FD%B3%B2%C4%FD%F1x%B2%E0%F7%E1%FD%FE%E4%F7%E7%B2%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%B2%F7%FF%B2%B7%E1%B2%E6%F7%FC%E6%F3%E6%FB%E4%F3%E1%BC%B2%D1%FD%FF%B2%F1%F7%E0%E6%F7%E8%F3%BE%B2%E4%FD%F1x%B2%F1%FD%FC%E1%F7%F5%E7%F7%B2%F4%F3%E8%F7%E0%B2%FF%F3%FB%E1%B2%E0s%E2%FB%F6%FD%B3%B0%BE%B0%FF%E1%F5%C3%A7%B0%A8%B0%C4%FD%F1x%B2%F1%FD%FE%FD%F1%FD%E7%B2%B7%E1%B2%F1%F3%E0%E6%F3%E1%B2%FC%FD%B2%FE%E7%F5%F3%E0%B2%F7%E0%E0%F3%F6%FD%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B3%B0%BE%B0%FF%E1%F5%C3%A5%B0%A8%B0A%E6%FB%FF%FD%B2%E6%E0%F3%F0%F3%FE%FA%FD%B3%B2%C4%FD%F1x%B2%F1%FE%F3%E1%E1%FB%F4%FB%F1%FD%E7%B2%F1%FD%E0%E0%F7%E6%F3%FF%F7%FC%E6%F7%B2%F3%B2%FF%F3%FB%FD%E0%FB%F3%B2%F6%F3%E1%B2%F1%F3%E0%E6%F3%E1%BE%B2%B7%E1%BE%B2%FF%F3%E1%B2%E2%FD%F6%F7%B2%FF%F7%FE%FA%FD%E0%F3%E0%B2%F3%FB%FC%F6%F3%B2%FF%F3%FB%E1%B0%BE%B0%FF%E1%F5%C3%AB%B0%A8%B0A%E6%FB%FF%FD%B2%E6%E0%F3%F0%F3%FE%FA%FD%B3%B2%C0%F7%E1%E6%F3%FF%B2%F3%E2%F7%FC%F3%E1%B2%B7%E1%B2%F1%F3%E0%E6%F3%E1%B2%E2%F3%E0%F3%B2%E1%F7%E0%F7%FF%B2%F1%FD%FE%FD%F1%F3%F6%F3%E1%B2%F1%FD%E0%E0%F7%E6%F3%FF%F7%FC%E6%F7%BC%B2%D0%E7%E1%E3%E7%F7%B2%F3%B2%E2%F7%E0%F4%F7%FBuq%FD%B3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F7%E0s%B2%E1%F3%FE%E4%F3%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FD%B2%F4%FB%FC%F3%FE%B2%F6%FD%B2%F8%FD%F5%FD%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D5%F3%FF%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F7%E0s%B2%E1%F3%FE%E4%F3%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F3%FD%B2%F4%FB%FC%F3%FE%B2%F6%FD%B2%F8%FD%F5%FD%BC%B2%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%F8%FD%F5%F3%E0%B2%E7%FF%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%E0%C1%F1%FD%E0%F7%B0%A8%B0%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%E1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%F3%E2a%E1%B2%E6%F7%E0%FF%FB%FC%F3%E0%B2%FD%B2%F8%FD%F5%FD%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%E6%FB%E4%FB%F6%F3%F6%F7%B2%FB%FC%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%E6%FB%E4%FB%F6%F3%F6%F7%A8%B2%D3%E2%E0%FD%E4%F3%F6%F3%BC%B2%C2%FD%FC%E6%E7%F3uq%FD%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%E6%FB%E4%FB%F6%F3%F6%F7%A8%B2%DCq%FD%B2%F3%E2%E0%FD%E4%F3%F6%F3%BC%B2%C2%FD%FC%E6%E7%F3uq%FD%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%FC%E6%E7%F3uq%FD%B2%FF%7F%FC%FB%FF%F3%B2%FC%F7%F1%F7%E1%E1s%E0%FB%F3%B2%E2%F3%E0%F3%B2%E1%F7%E0%B2%F3%E2%E0%FD%E4%F3%F6%FD%B2%FC%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FE%F3%E1%E1%FB%F4%FB%F1%F3%E0%B0%EF%EF</div><a href="{{context_path}}/content/resources/image_74ada2a0.jpg" class="js-hidden clasifica-LinkImages">0</a><a href="{{context_path}}/content/resources/image_be4831d.jpg" class="js-hidden clasifica-LinkImages">1</a><a href="{{context_path}}/content/resources/image_c380b366.jpg" class="js-hidden clasifica-LinkImages">2</a><a href="{{context_path}}/content/resources/image_3dfb1001.jpg" class="js-hidden clasifica-LinkImages">3</a><a href="{{context_path}}/content/resources/image_f479e6aa.jpg" class="js-hidden clasifica-LinkImages">4</a><a href="{{context_path}}/content/resources/image_3df28e26.jpg" class="js-hidden clasifica-LinkImages">5</a><a href="{{context_path}}/content/resources/image_4e268e39.jpg" class="js-hidden clasifica-ImageBack" alt="Back" />Background</a><div class="clasifica-extra-content"><p><strong><span style="font-size: 18pt; color: #e67e23;">Tudo pronto! </span></strong></p>
+<p><span style="color: #000000;"><span style="font-size: 18pt;">Estou te esperando para partirmos juntos rumo à próxima missão!</span></span></p>
+<p><strong><span style="font-size: 18pt; color: #e67e23;"><img src="{{context_path}}/content/resources/Personagem.png" width="509" height="278" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></strong></p></div><div class="clasifica-bns js-hidden">Seu navegador não é compatível com esta ferramenta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhnw11v-d6cx0i7wj</odePageId>
+  <odeParentPageId>page-mvcjmf4m-0gowuhx93</odeParentPageId>
+  <pageName>Perímetro</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Perímetro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Perímetro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhnw11v-d6cx0i7wj</odePageId>
+      <odeBlockId>block-mwifscdn-75yo5893r</odeBlockId>
+      <blockName>Missão 2 - Contornando Figuras</blockName>
+      <iconName>asset://2227b64c-fa20-525a-b378-b6d168e1a306.png</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhnw11v-d6cx0i7wj</odePageId>
+          <odeBlockId>block-mwifscdn-75yo5893r</odeBlockId>
+          <odeIdeviceId>idevice-mwifscdn-r93w1uhz2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #e67e23;"><strong><span style="font-size: 18pt;">O que é Perímetro?</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">O <span style="color: #e67e23;">perímetro</span> é a soma de todos os lados de um polígono, ou seja, a medida do seu<span style="color: #e67e23;"> contorno. </span></span><span style="font-size: 18pt; color: #000000;">Nas imagens abaixo, podemos ver o perímetro destacado em preto.</span></p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;"><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/mceclip1_2.png" width="619" height="174" style="display: block; margin-left: auto; margin-right: auto;" /> </span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"><span style="font-size: 24pt;"></span></span><br /></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"><span style="font-size: 24pt;">💡</span><strong><span style="color: #e67e23;"> Você sabia?</span></strong> </span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">Se uma formiga sair de um vértice ao oposto de um retângulo na malha quadriculada (movendo-se apenas para a direita ou para cima), ela percorrerá a metade do perímetro, conhecida como <span style="color: #e67e23;">semiperímetro</span>.</span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"></span><br /></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"></span><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/mceclip4_1.png" /></span><br /></p>
+<p style="text-align: justify;"><br /><span style="font-size: 18pt;"></span></p>
+<p><span style="font-size: 18pt;"></span><br /></p>
+<p><strong><span style="font-size: 18pt; color: #e67e23;">Veja só qual é o segredo!</span></strong></p>
+<p style="text-align: justify;"><br /><span style="font-size: 18pt;">Independentemente de qual zigue-zague a formiga escolha, seja subindo tudo logo no início ou alternando entre trechos horizontais e verticais, uma coisa mágica acontece: os trechos horizontais somados formam a largura do retângulo, enquanto os verticais formam a altura.</span></p>
+<p> </p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">Logo, para calcular o <span style="color: #e67e23;">perímetro</span> total, fazemos <span style="color: #e67e23;">2 vezes o valor do semiperímetro</span>.</span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwifscdn-r93w1uhz2","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #e67e23;\"><strong><span style=\"font-size: 18pt;\">O que é Perímetro?</span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">O <span style=\"color: #e67e23;\">perímetro</span> é a soma de todos os lados de um polígono, ou seja, a medida do seu<span style=\"color: #e67e23;\"> contorno. </span></span><span style=\"font-size: 18pt; color: #000000;\">Nas imagens abaixo, podemos ver o perímetro destacado em preto.</span></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/mceclip1_2.png\" width=\"619\" height=\"174\" style=\"display: block; margin-left: auto; margin-right: auto;\" /> </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"><span style=\"font-size: 24pt;\"></span></span><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"><span style=\"font-size: 24pt;\">💡</span><strong><span style=\"color: #e67e23;\"> Você sabia?</span></strong> </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">Se uma formiga sair de um vértice ao oposto de um retângulo na malha quadriculada (movendo-se apenas para a direita ou para cima), ela percorrerá a metade do perímetro, conhecida como <span style=\"color: #e67e23;\">semiperímetro</span>.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"></span><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/mceclip4_1.png\" /></span><br /></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-size: 18pt;\"></span></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><strong><span style=\"font-size: 18pt; color: #e67e23;\">Veja só qual é o segredo!</span></strong></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-size: 18pt;\">Independentemente de qual zigue-zague a formiga escolha, seja subindo tudo logo no início ou alternando entre trechos horizontais e verticais, uma coisa mágica acontece: os trechos horizontais somados formam a largura do retângulo, enquanto os verticais formam a altura.</span></p>\n<p> </p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">Logo, para calcular o <span style=\"color: #e67e23;\">perímetro</span> total, fazemos <span style=\"color: #e67e23;\">2 vezes o valor do semiperímetro</span>.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"></span><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwhnw11v-d6cx0i7wj</odePageId>
+      <odeBlockId>block-mwiagvw1-kyde5w1lq</odeBlockId>
+      <blockName>Agora é com você!</blockName>
+      <iconName>asset://fa84576c-8fd5-f5ca-35fe-05499ab56610.webp</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhnw11v-d6cx0i7wj</odePageId>
+          <odeBlockId>block-mwiagvw1-kyde5w1lq</odeBlockId>
+          <odeIdeviceId>idevice-1792859490749-5rva9wtv3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;"><span style="font-size: 18pt;"><strong><span style="color: #e67e23;">Preparado para o desafio? </span></strong></span></p>
+<p style="text-align: left;"><span style="font-size: 18pt;">Aceite esta missão relâmpago de raciocínio e agilidade sobre Perímetro no <a href="#t34d2adcd-a92a-1d59-0b5c-27372472d4d5" id="link34d2adcd-a92a-1d59-0b5c-27372472d4d5" class="exe-tooltip definition-tt blue-tt rounded-tt shadowed-tt" title="Você Já ouviu falar do Wordwall?">Wordwall</a>.</span></p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: center;"><iframe width="500" height="380" style="max-width: 100%;" src="https://wordwall.net/pt/embed/bf063ede7111a13b1cef685f4b6ea3bf?themeId=65&amp;templateId=30&amp;fontStackId=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><span style="color: #3598db;"><span style="color: #000000;">Autor:</span> Robson Leal</span></p>
+<p><br /></p>
+<div id="t34d2adcd-a92a-1d59-0b5c-27372472d4d5" class="exe-tooltip-text">
+<p>Plataforma online que permite criar atividades e jogos educativos interativos.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792859490749-5rva9wtv3","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #e67e23;\">Preparado para o desafio? </span></strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\">Aceite esta missão relâmpago de raciocínio e agilidade sobre Perímetro no <a href=\"#t34d2adcd-a92a-1d59-0b5c-27372472d4d5\" id=\"link34d2adcd-a92a-1d59-0b5c-27372472d4d5\" class=\"exe-tooltip definition-tt blue-tt rounded-tt shadowed-tt\" title=\"Você Já ouviu falar do Wordwall?\">Wordwall</a>.</span></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"500\" height=\"380\" style=\"max-width: 100%;\" src=\"https://wordwall.net/pt/embed/bf063ede7111a13b1cef685f4b6ea3bf?themeId=65&amp;templateId=30&amp;fontStackId=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"color: #3598db;\"><span style=\"color: #000000;\">Autor:</span> Robson Leal</span></p>\n<p><br /></p>\n<div id=\"t34d2adcd-a92a-1d59-0b5c-27372472d4d5\" class=\"exe-tooltip-text\">\n<p>Plataforma online que permite criar atividades e jogos educativos interativos.</p>\n</div>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwhnwtbx-wwy15ilc0</odePageId>
+  <odeParentPageId>page-mvcjmf4m-0gowuhx93</odeParentPageId>
+  <pageName>Área</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Área</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Área</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwhnwtbx-wwy15ilc0</odePageId>
+      <odeBlockId>block-mwhpkez0-zwqcgtshk</odeBlockId>
+      <blockName>Missão 3 - Construindo Figuras e Calculando Áreas</blockName>
+      <iconName>asset://2227b64c-fa20-525a-b378-b6d168e1a306.png</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhnwtbx-wwy15ilc0</odePageId>
+          <odeBlockId>block-mwhpkez0-zwqcgtshk</odeBlockId>
+          <odeIdeviceId>idevice-1794739512775-ilj5stfgb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #e67e23;"><strong><span style="font-size: 18pt;">O que é Área?</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">A área representa a medida da superfície interna de uma figura plana, tendo como unidade padrão o metro quadrado (<span style="color: #e67e23;">m²</span>), seus múltiplos e submúltiplos.</span></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><span style="font-size: 18pt; color: #e67e23;">Na imagem abaixo, essa área é destacada pela região colorida.</span></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: left;"><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/mceclip0_1.jpg" width="530" height="129" style="display: block; margin-left: auto; margin-right: auto;" /> </span></p>
+<p style="text-align: center;"><br /><span style="font-size: 18pt;"></span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;"><span style="font-size: 24pt;">💡</span><strong><span style="color: #e67e23;"> Você sabia?</span></strong> </span></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">Que a área pode ser determinada utilizando uma malha quadriculada, onde cada quadrado equivale a uma unidade de medida?</span></p>
+<p style="text-align: center;"><br /></p>
+<p><img src="{{context_path}}/content/resources/image_fb4fe9dc.jpg" width="363" height="161" style="float: left;" /> </p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">    Basta então contar a quantidade de quadradinhos:</span></p>
+<p style="text-align: left;"><span style="font-size: 18pt;"></span><br /></p>
+<p style="text-align: left;"><span style="font-size: 18pt;"></span><br /></p>
+<div style="max-width: 800px; margin: auto; font-family: Arial,sans-serif;">
+<div style="display: flex; align-items: left; margin: 25px 0;">
+<div style="text-align: left; font-size: 32px; font-weight: bold; color: #1976d2; width: 180px;">        <span style="font-size: 18pt;">1ª Figura</span></div>
+<div style="font-size: 40px; color: #ff9800; margin: 0 20px;">➜</div>
+<div style="font-size: 28px; font-weight: bold; background: #e3f2fd; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #1976d2;"><span style="font-size: 18pt;">A = 15 cm²</span></div>
+</div>
+<div style="display: flex; align-items: left; margin: 25px 0;">
+<div style="font-size: 32px; font-weight: bold; color: #2e7d32; width: 180px;">   <span style="font-size: 18pt;">      2ª Figura</span></div>
+<div style="font-size: 40px; color: #ff9800; margin: 0 20px;">➜</div>
+<div style="font-size: 24px; font-weight: bold; background: #e8f5e9; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #2e7d32;">A = 16 cm²</div>
+</div>
+</div>
+<p><br /></p>
+<p style="text-align: left;"><span style="font-size: 18pt;"></span><span style="font-size: 24pt; color: #e67e23;"><strong>Vamos colocar a mão na massa?</strong></span></p>
+<p style="text-align: left;">Utilize o explorador de área do PhET Colorado disponibilizado abaixo, entre em "Explore" para montar as figuras a seguir e descobrir qual a área delas.</p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: center;"><iframe width="900" height="450" src="https://phet.colorado.edu/sims/html/area-builder/latest/area-builder_all.html?locale=pt_BR"></iframe></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/mceclip4.png" />           <img src="{{context_path}}/content/resources/mceclip7_1.png" />            <img src="{{context_path}}/content/resources/mceclip10.png" />        <img src="{{context_path}}/content/resources/mceclip9.png" /></p>
+<p style="text-align: center;"><br /></p>
+<table style="width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; border: 2px solid #d97736;">
+<thead>
+<tr>
+<th colspan="5" style="text-align: center; background-color: #d97736; color: #ffffff; padding: 14px; font-size: 1.15em; border: 2px solid #000000;">FAÇA AQUI SUAS ANOTAÇÕES!</th>
+</tr>
+<tr>
+<th style="text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #f6c29f; color: #5c2b0e; font-weight: bold;">Figuras</th>
+<th style="text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;">Figura 1</th>
+<th style="text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;">Figura 2</th>
+<th style="text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;">Figura 3</th>
+<th style="text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;">Figura 4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center; padding: 10px; border: 2px solid #d97736; font-weight: bold; background-color: #f6c29f; color: #5c2b0e;">Área</td>
+<td style="padding: 8px; border: 2px solid #d97736; background-color: #ffffff;"><input type="text" placeholder="Ex: 15 cm²" style="width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;" /></td>
+<td style="padding: 8px; border: 2px solid #d97736; background-color: #ffffff;"><input type="text" placeholder="Digite aqui" style="width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;" /></td>
+<td style="padding: 8px; border: 2px solid #d97736; background-color: #ffffff;"><input type="text" placeholder="Digite aqui" style="width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;" /></td>
+<td style="padding: 8px; border: 2px solid #d97736; background-color: #ffffff;"><input type="text" placeholder="Digite aqui" style="width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;" /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794739512775-ilj5stfgb","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #e67e23;\"><strong><span style=\"font-size: 18pt;\">O que é Área?</span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">A área representa a medida da superfície interna de uma figura plana, tendo como unidade padrão o metro quadrado (<span style=\"color: #e67e23;\">m²</span>), seus múltiplos e submúltiplos.</span></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt; color: #e67e23;\">Na imagem abaixo, essa área é destacada pela região colorida.</span></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/mceclip0_1.jpg\" width=\"530\" height=\"129\" style=\"display: block; margin-left: auto; margin-right: auto;\" /> </span></p>\n<p style=\"text-align: center;\"><br /><span style=\"font-size: 18pt;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\"><span style=\"font-size: 24pt;\">💡</span><strong><span style=\"color: #e67e23;\"> Você sabia?</span></strong> </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">Que a área pode ser determinada utilizando uma malha quadriculada, onde cada quadrado equivale a uma unidade de medida?</span></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><img src=\"{{context_path}}/content/resources/image_fb4fe9dc.jpg\" width=\"363\" height=\"161\" style=\"float: left;\" /> </p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">    Basta então contar a quantidade de quadradinhos:</span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\"></span><br /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\"></span><br /></p>\n<div style=\"max-width: 800px; margin: auto; font-family: Arial,sans-serif;\">\n<div style=\"display: flex; align-items: left; margin: 25px 0;\">\n<div style=\"text-align: left; font-size: 32px; font-weight: bold; color: #1976d2; width: 180px;\">        <span style=\"font-size: 18pt;\">1ª Figura</span></div>\n<div style=\"font-size: 40px; color: #ff9800; margin: 0 20px;\">➜</div>\n<div style=\"font-size: 28px; font-weight: bold; background: #e3f2fd; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #1976d2;\"><span style=\"font-size: 18pt;\">A = 15 cm²</span></div>\n</div>\n<div style=\"display: flex; align-items: left; margin: 25px 0;\">\n<div style=\"font-size: 32px; font-weight: bold; color: #2e7d32; width: 180px;\">   <span style=\"font-size: 18pt;\">      2ª Figura</span></div>\n<div style=\"font-size: 40px; color: #ff9800; margin: 0 20px;\">➜</div>\n<div style=\"font-size: 24px; font-weight: bold; background: #e8f5e9; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #2e7d32;\">A = 16 cm²</div>\n</div>\n</div>\n<p><br /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt;\"></span><span style=\"font-size: 24pt; color: #e67e23;\"><strong>Vamos colocar a mão na massa?</strong></span></p>\n<p style=\"text-align: left;\">Utilize o explorador de área do PhET Colorado disponibilizado abaixo, entre em \"Explore\" para montar as figuras a seguir e descobrir qual a área delas.</p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: center;\"><iframe width=\"900\" height=\"450\" src=\"https://phet.colorado.edu/sims/html/area-builder/latest/area-builder_all.html?locale=pt_BR\"></iframe></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip4.png\" />           <img src=\"{{context_path}}/content/resources/mceclip7_1.png\" />            <img src=\"{{context_path}}/content/resources/mceclip10.png\" />        <img src=\"{{context_path}}/content/resources/mceclip9.png\" /></p>\n<p style=\"text-align: center;\"><br /></p>\n<table style=\"width: 100%; border-collapse: collapse; text-align: center; font-family: Arial, sans-serif; border: 2px solid #d97736;\">\n<thead>\n<tr>\n<th colspan=\"5\" style=\"text-align: center; background-color: #d97736; color: #ffffff; padding: 14px; font-size: 1.15em; border: 2px solid #000000;\">FAÇA AQUI SUAS ANOTAÇÕES!</th>\n</tr>\n<tr>\n<th style=\"text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #f6c29f; color: #5c2b0e; font-weight: bold;\">Figuras</th>\n<th style=\"text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;\">Figura 1</th>\n<th style=\"text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;\">Figura 2</th>\n<th style=\"text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;\">Figura 3</th>\n<th style=\"text-align: center; padding: 10px; border: 2px solid #d97736; background-color: #fdf1e8; color: #7c3812; font-weight: bold;\">Figura 4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center; padding: 10px; border: 2px solid #d97736; font-weight: bold; background-color: #f6c29f; color: #5c2b0e;\">Área</td>\n<td style=\"padding: 8px; border: 2px solid #d97736; background-color: #ffffff;\"><input type=\"text\" placeholder=\"Ex: 15 cm²\" style=\"width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;\" /></td>\n<td style=\"padding: 8px; border: 2px solid #d97736; background-color: #ffffff;\"><input type=\"text\" placeholder=\"Digite aqui\" style=\"width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;\" /></td>\n<td style=\"padding: 8px; border: 2px solid #d97736; background-color: #ffffff;\"><input type=\"text\" placeholder=\"Digite aqui\" style=\"width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;\" /></td>\n<td style=\"padding: 8px; border: 2px solid #d97736; background-color: #ffffff;\"><input type=\"text\" placeholder=\"Digite aqui\" style=\"width: 90%; padding: 6px; text-align: center; border: 1.5px solid #e69d6c; border-radius: 4px; color: #333333;\" /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwhnwtbx-wwy15ilc0</odePageId>
+      <odeBlockId>block-mwgcn3of-oipifemf2</odeBlockId>
+      <blockName>Teste os seus conhecimentos!</blockName>
+      <iconName>mi-border_color</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwhnwtbx-wwy15ilc0</odePageId>
+          <odeBlockId>block-mwgcn3of-oipifemf2</odeBlockId>
+          <odeIdeviceId>idevice-1794657336916-ma7q0my1k</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794657336916-ma7q0my1k" data-evaluationb="false" data-evaluationid="598c9e4f-143f-4f36-91ba-18d9bb742d66"></div>
+            <div id="frmMainContainer-idevice-1794657336916-ma7q0my1k" class="form-IDevice" data-id="idevice-1794657336916-ma7q0my1k">
+                <div class="form-Data js-hidden">{}</div>
+                
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tempo por pergunta:</span></strong>
+                        <span id="frmPTime-idevice-1794657336916-ma7q0my1k">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794657336916-ma7q0my1k" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794657336916-ma7q0my1k" type="button" class="btn btn-primary">Clique aqui para começar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794657336916-ma7q0my1k" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794657336916-ma7q0my1k" > </div>
+                        <div id="frmCover-idevice-1794657336916-ma7q0my1k" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794657336916-ma7q0my1k" class="form-results-container inline">
+                        <div id="form-score-idevice-1794657336916-ma7q0my1k" class="score-text">Pontuação.</div>
+                        <div id="form-result-test-idevice-1794657336916-ma7q0my1k" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794657336916-ma7q0my1k" class="btn btn-primary" type="button" value="Verificar"
+                            data-id="idevice-1794657336916-ma7q0my1k" />
+                        <input id="form-button-reset-idevice-1794657336916-ma7q0my1k" type="button" value="Redefinir"
+                            data-id="idevice-1794657336916-ma7q0my1k" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1794657336916-ma7q0my1k" class="btn btn-primary" type="button" value="Mostrar respostas"
+                            data-id="idevice-1794657336916-ma7q0my1k" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"><img src="{{context_path}}/content/resources/mceclip0_4.png"><a href="{{context_path}}/content/resources/mceclip0_4.png" class="js-hidden form-media-img">0</a></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794657336916-ma7q0my1k","evaluation":false,"evaluationID":"598c9e4f-143f-4f36-91ba-18d9bb742d66","passScoreMode":"global","passScoreCustom":5,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Salvar pontuação","weighted":100,"msgs":{"msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgYouScore":"Sua pontuação é","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgScore":"Pontuação","msgWeight":"Peso","msgYouLastScore":"A última pontuação salva é","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgActityComply":"Você já realizou esta atividade.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgPassScore":"Pontuação mínima necessária para ser aprovado nesta atividade: %s","msgTypeGame":"Formulário","msgStartGame":"Clique aqui para começar","msgTime":"Tempo por pergunta","msgSaveScore":"Salvar pontuação","msgResult":"Resultado","msgCheck":"Verificar","msgReset":"Redefinir","msgShowAnswers":"Mostrar respostas","msgTestResultPass":"Parabéns! Você passou no teste","msgTestResultNotPass":"Desculpe. Você não passou no teste","msgTrueFalseHelp":"Selecione se a afirmação é verdadeira ou falsa","msgDropdownHelp":"Escolha a resposta correta entre as opções propostas","msgFillHelp":"Preencha as lacunas com a palavra adequada","msgSingleSelectionHelp":"Escolha múltipla com apenas uma resposta correta","msgMultipleSelectionHelp":"Escolha múltipla com múltiplas respostas corretas","msgPlayStart":"Clique aqui para começar","msgTrue":"Verdadeiro","msgFalse":"Falso","msgNext":"Próximo","msgPrevious":"Anterior","msgSuggestion":"Sugestão","msgOk":"Correto","msgKO":"Incorreto","msgHide":"Ocultar"},"id":"idevice-1794657336916-ma7q0my1k","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"","questionsData":[{"id":"1794681306097-G2L54","activityType":"true-false","baseText":"<div style=\"font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box; margin: 20px 0;\"><!-- Barra em Alto Relevo (Centralizada) -->\n<div style=\"padding: 14px 16px; background: linear-gradient(135deg, #0077b6 0%, #ff6b00 100%); border-left: 8px solid #023e8a; border-bottom: 4px solid #023e8a; border-radius: 12px 12px 0 0; box-shadow: 0 6px 14px rgba(2, 62, 138, 0.22); display: flex; align-items: center; justify-content: center; text-align: center; position: relative; z-index: 2;\"><span style=\"color: #ffffff; font-size: 1.35em; font-weight: bold; letter-spacing: 0.5px; text-shadow: 1px 1px 3px rgba(0,0,0,0.25);\">O QUE APRENDI SOBRE ÁREA?</span></div>\n</div>\n<div style=\"font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box; margin: 20px 0; display: flex; align-items: center; gap: 15px; flex-wrap: wrap;\"><!-- Barra em Alto Relevo (Lado esquerdo) -->\n<div style=\"min-width: 180px; padding: 4px 8px; background: linear-gradient(135deg, #0077b6 0%, #00b4d8 100%); border-left: 8px solid #023e8a; border-bottom: 4px solid #023e8a; border-radius: 10px; box-shadow: 0 6px 14px rgba(2, 62, 138, 0.22); display: flex; align-items: center; gap: 12px; flex-shrink: 0;\"><span style=\"background-color: #ffffff; color: #023e8a; font-weight: 800; font-size: 1.2em; width: 38px; height: 38px; border-radius: 40%; display: flex; align-items: center; justify-content: center; box-shadow: 0 3px 6px rgba(0,0,0,0.2); flex-shrink: 0;\"><span style=\"font-size: 18pt;\">1</span><br /></span> <span style=\"color: #ffffff; font-size: 1.35em; font-weight: bold; letter-spacing: 0.5px; text-shadow: 1px 1px 3px rgba(0,0,0,0.25);\"> <span style=\"font-size: 18pt;\">Questão </span></span></div>\n<!-- Frase ao lado (Lado direito) -->\n<p style=\"margin: 0px; flex: 1 1 0%; min-width: 250px; color: #2b2d42; font-size: 1.05em; line-height: 1.5; text-align: justify;\">Ao mudar a organização dos quadradinhos das figuras 1 e 2, a área também irá mudar. </p>\n</div>","feedbackRight":"Isso mesmo! Se as figuras possuem a mesma quantidade de quadradinhos, todas terão a mesma área.","feedbackWrong":"Que pena! Tente de novo.","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794676667637-YYAUC","activityType":"selection","baseText":"<div style=\"font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box; margin: 20px 0; display: flex; align-items: center; gap: 15px; flex-wrap: wrap;\"><!-- Barra em Alto Relevo (Lado esquerdo) -->\n<div style=\"min-width: 180px; padding: 4px 8px; background: linear-gradient(135deg, #0077b6 0%, #00b4d8 100%); border-left: 8px solid #023e8a; border-bottom: 4px solid #023e8a; border-radius: 10px; box-shadow: 0 6px 14px rgba(2, 62, 138, 0.22); display: flex; align-items: center; gap: 12px; flex-shrink: 0;\"><span style=\"background-color: #ffffff; color: #023e8a; font-weight: 800; font-size: 1.2em; width: 38px; height: 38px; border-radius: 40%; display: flex; align-items: center; justify-content: center; box-shadow: 0 3px 6px rgba(0,0,0,0.2); flex-shrink: 0;\"><span style=\"font-size: 18pt;\">2</span><br /></span> <span style=\"color: #ffffff; font-size: 1.35em; font-weight: bold; letter-spacing: 0.5px; text-shadow: 1px 1px 3px rgba(0,0,0,0.25);\"> <span style=\"font-size: 18pt;\">Questão </span></span></div>\n<!-- Frase ao lado (Lado direito) -->\n<p style=\"margin: 0px; flex: 1 1 0%; min-width: 250px; color: #2b2d42; font-size: 1.05em; line-height: 1.5; text-align: justify;\">Observe a Figura 4 e compare-a com as demais. Ao retirar uma quantidade de quadradinhos, o que acontece com a área dela?</p>\n</div>","feedbackRight":"Parabéns! Você acertou!","feedbackWrong":"Tente de novo!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Contia a mesma."],[true,"Fica menor."],[false,"Fica maior."],[false,"Nenhuma das alternativas anteriores."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794758120543-4TAMV","activityType":"selection","baseText":"<div style=\"font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box; margin: 20px 0; display: flex; align-items: center; gap: 15px; flex-wrap: wrap;\"><!-- Barra em Alto Relevo (Lado esquerdo) -->\n<div style=\"min-width: 180px; padding: 4px 8px; background: linear-gradient(135deg, #0077b6 0%, #00b4d8 100%); border-left: 8px solid #023e8a; border-bottom: 4px solid #023e8a; border-radius: 10px; box-shadow: 0 6px 14px rgba(2, 62, 138, 0.22); display: flex; align-items: center; gap: 12px; flex-shrink: 0;\"><span style=\"background-color: #ffffff; color: #023e8a; font-weight: 800; font-size: 1.2em; width: 38px; height: 38px; border-radius: 40%; display: flex; align-items: center; justify-content: center; box-shadow: 0 3px 6px rgba(0,0,0,0.2); flex-shrink: 0;\"><span style=\"font-size: 18pt;\">3</span><br /></span> <span style=\"color: #ffffff; font-size: 1.35em; font-weight: bold; letter-spacing: 0.5px; text-shadow: 1px 1px 3px rgba(0,0,0,0.25);\"> <span style=\"font-size: 18pt;\">Questão </span></span></div>\n<!-- Frase ao lado (Lado direito) -->\n<p style=\"margin: 0px; flex: 1 1 0%; min-width: 250px; color: #2b2d42; font-size: 1.05em; line-height: 1.5; text-align: justify;\">Observe a Figura 3 e compare-a com as demais. Ao colocar mais quadradinhos, o que acontece com a área dela?</p>\n</div>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Continua a mesma."],[false,"Fica menor."],[true,"Fica maior."],[false,"Nenhuma das alternativas anteriores."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794783274142-3FB84","activityType":"selection","baseText":"<div style=\"font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%; box-sizing: border-box; margin: 20px 0; display: flex; align-items: center; gap: 15px; flex-wrap: wrap;\"><!-- Barra em Alto Relevo (Lado esquerdo) -->\n<div style=\"min-width: 180px; padding: 4px 8px; background: linear-gradient(135deg, #0077b6 0%, #00b4d8 100%); border-left: 8px solid #023e8a; border-bottom: 4px solid #023e8a; border-radius: 10px; box-shadow: 0 6px 14px rgba(2, 62, 138, 0.22); display: flex; align-items: center; gap: 12px; flex-shrink: 0;\"><span style=\"background-color: #ffffff; color: #023e8a; font-weight: 800; font-size: 1.2em; width: 38px; height: 38px; border-radius: 40%; display: flex; align-items: center; justify-content: center; box-shadow: 0 3px 6px rgba(0,0,0,0.2); flex-shrink: 0;\"><span style=\"font-size: 18pt;\">4</span><br /></span> <span style=\"color: #ffffff; font-size: 1.35em; font-weight: bold; letter-spacing: 0.5px; text-shadow: 1px 1px 3px rgba(0,0,0,0.25);\"> <span style=\"font-size: 18pt;\">Questão </span></span></div>\n<!-- Frase ao lado (Lado direito) -->\n<p style=\"margin: 0px; flex: 1 1 0%; min-width: 250px; color: #2b2d42; font-size: 1.05em; line-height: 1.5; text-align: justify;\">Jonas colocou piso em sua sala, como mostra a figura abaixo. Sabendo que cada lajota possui 1 m², qual é a área total dessa sala?</p>\n</div>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/mceclip0_4.png\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A = 10 m²"],[false,"A = 12 m²"],[false,"A = 14 m²"],[true,"A = 15 m²"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvml15ex-82mi1bgux</odePageId>
+  <odeParentPageId>page-mvcjmf4m-0gowuhx93</odeParentPageId>
+  <pageName>Triângulos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Triângulos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Triângulos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Triângulos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvml15ex-82mi1bgux</odePageId>
+      <odeBlockId>block-mvo8dege-irarvwumr</odeBlockId>
+      <blockName>Missão 4 - Explorando os triângulos</blockName>
+      <iconName>mi-outbox_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvml15ex-82mi1bgux</odePageId>
+          <odeBlockId>block-mvo8dege-irarvwumr</odeBlockId>
+          <odeIdeviceId>idevice-1792957112941-qfsq8a1as</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-image license-custom float-left" style="width: 135px;"><img src="{{context_path}}/content/resources/Triângulos_2.png" alt="" width="135" height="116" /></figure>
+<table border="4" class="exe-table" height="95" style="width: 76.8524%; background-color: #c2e0f4; border-color: #236fa1; border-style: dashed; margin-left: auto; margin-right: auto; height: 120.4px;">
+<tbody>
+<tr style="height: 120.4px;">
+<td style="width: 100%; text-align: justify; height: 120.4px;">     Um <span style="color: #e67e23;">triângulo</span> é um polígono de <span style="color: #e67e23;">três lados</span>, <span style="color: #e67e23;">três vértices</span> e <span style="color: #e67e23;">três ângulos internos</span> cuja soma é sempre <a href="exe-node:page-mvml15ex-82mi1bgux" id="linkefc0e982-6ba2-0700-d86a-e97932c78042" class="exe-tooltip definition-tt rounded-tt shadowed-tt" title="">\(180^\circ\)</a>, sendo a figura geométrica plana mais simples e fundamental da geometria.</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: left;"><strong><span style="font-size: 18pt;">Vamos calcular a área  e perímetro de um triângulo? </span></strong></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;">Não importa o tipo de <span style="color: #e67e23;">triângulo</span>. Seja ele <span style="color: #e67e23;">equilátero</span>, <span style="color: #e67e23;">isósceles</span> ou <span style="color: #e67e23;">escaleno</span>, os cálculos serão feitos da mesma forma. Basta <span style="color: #3598db;">identificar</span> corretamente a <span style="color: #3598db;">base (b)</span> e a <span style="color: #236fa1;">altura (h)</span> para encontrar a área e o perímetro.</p>
+<p><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/Designer (3).png" width="515" height="343" alt="" /></span></p>
+<p style="text-align: justify;"><br /></p>
+<div style="max-width: 800px; margin: auto; font-family: Arial,sans-serif;"><!-- ÁREA -->
+<div style="display: flex; align-items: center; margin: 25px 0;">
+<div style="font-size: 32px; font-weight: bold; color: #1976d2; width: 180px;">Área</div>
+<div style="font-size: 40px; color: #ff9800; margin: 0 20px;">➜</div>
+<div style="font-size: 28px; font-weight: bold; background: #e3f2fd; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #1976d2;">A = (base × altura) ÷ 2</div>
+</div>
+<!-- PERÍMETRO -->
+<div style="display: flex; align-items: center; margin: 25px 0;">
+<div style="font-size: 32px; font-weight: bold; color: #2e7d32; width: 180px;">Perímetro</div>
+<div style="font-size: 40px; color: #ff9800; margin: 0 20px;">➜</div>
+<div style="font-size: 24px; font-weight: bold; background: #e8f5e9; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #2e7d32;">É a soma de todos os lados do triângulo.</div>
+</div>
+</div>
+<p><br /></p>
+<div id="tefc0e982-6ba2-0700-d86a-e97932c78042" class="exe-tooltip-text">
+<p>A soma dos ângulos internos de qualquer triângulo sempre é igual a 180º.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792957112941-qfsq8a1as","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<figure class=\"exe-figure exe-image license-custom float-left\" style=\"width: 135px;\"><img src=\"{{context_path}}/content/resources/Triângulos_2.png\" alt=\"\" width=\"135\" height=\"116\" /></figure>\n<table border=\"4\" class=\"exe-table\" height=\"95\" style=\"width: 76.8524%; background-color: #c2e0f4; border-color: #236fa1; border-style: dashed; margin-left: auto; margin-right: auto; height: 120.4px;\">\n<tbody>\n<tr style=\"height: 120.4px;\">\n<td style=\"width: 100%; text-align: justify; height: 120.4px;\">     Um <span style=\"color: #e67e23;\">triângulo</span> é um polígono de <span style=\"color: #e67e23;\">três lados</span>, <span style=\"color: #e67e23;\">três vértices</span> e <span style=\"color: #e67e23;\">três ângulos internos</span> cuja soma é sempre <a href=\"exe-node:page-mvml15ex-82mi1bgux\" id=\"linkefc0e982-6ba2-0700-d86a-e97932c78042\" class=\"exe-tooltip definition-tt rounded-tt shadowed-tt\" title=\"\">\\(180^\\circ\\)</a>, sendo a figura geométrica plana mais simples e fundamental da geometria.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: left;\"><strong><span style=\"font-size: 18pt;\">Vamos calcular a área  e perímetro de um triângulo? </span></strong></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\">Não importa o tipo de <span style=\"color: #e67e23;\">triângulo</span>. Seja ele <span style=\"color: #e67e23;\">equilátero</span>, <span style=\"color: #e67e23;\">isósceles</span> ou <span style=\"color: #e67e23;\">escaleno</span>, os cálculos serão feitos da mesma forma. Basta <span style=\"color: #3598db;\">identificar</span> corretamente a <span style=\"color: #3598db;\">base (b)</span> e a <span style=\"color: #236fa1;\">altura (h)</span> para encontrar a área e o perímetro.</p>\n<p><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/Designer (3).png\" width=\"515\" height=\"343\" alt=\"\" /></span></p>\n<p style=\"text-align: justify;\"><br /></p>\n<div style=\"max-width: 800px; margin: auto; font-family: Arial,sans-serif;\"><!-- ÁREA -->\n<div style=\"display: flex; align-items: center; margin: 25px 0;\">\n<div style=\"font-size: 32px; font-weight: bold; color: #1976d2; width: 180px;\">Área</div>\n<div style=\"font-size: 40px; color: #ff9800; margin: 0 20px;\">➜</div>\n<div style=\"font-size: 28px; font-weight: bold; background: #e3f2fd; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #1976d2;\">A = (base × altura) ÷ 2</div>\n</div>\n<!-- PERÍMETRO -->\n<div style=\"display: flex; align-items: center; margin: 25px 0;\">\n<div style=\"font-size: 32px; font-weight: bold; color: #2e7d32; width: 180px;\">Perímetro</div>\n<div style=\"font-size: 40px; color: #ff9800; margin: 0 20px;\">➜</div>\n<div style=\"font-size: 24px; font-weight: bold; background: #e8f5e9; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #2e7d32;\">É a soma de todos os lados do triângulo.</div>\n</div>\n</div>\n<p><br /></p>\n<div id=\"tefc0e982-6ba2-0700-d86a-e97932c78042\" class=\"exe-tooltip-text\">\n<p>A soma dos ângulos internos de qualquer triângulo sempre é igual a 180º.</p>\n</div>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvml15ex-82mi1bgux</odePageId>
+      <odeBlockId>block-mw5nlih4-f2vh32n6c</odeBlockId>
+      <blockName>Jogo da Memória</blockName>
+      <iconName>asset://50600e57-b117-1629-e2a0-7d1411785a93.jpeg</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvml15ex-82mi1bgux</odePageId>
+          <odeBlockId>block-mw5nlih4-f2vh32n6c</odeBlockId>
+          <odeIdeviceId>idevice-1794010610631-2g31t807b</odeIdeviceId>
+          <odeIdeviceTypeName>discover</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="descubre-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1794010610631-2g31t807b" data-evaluationb="false" data-evaluationid="5bba8127-5772-4f79-9c9f-499eb3401764"></div><div class="descubre-feedback-game"></div><div class="descubre-instructions"><p style="text-align: justify;"><span style="font-size: 24pt;">🧠</span> <strong><span style="font-size: 18pt; color: #000000;">Preparado para o próximo desafio?</span></strong></p>
+<p style="text-align: justify;">Agora que você relembrou um pouco sobre triângulos, que tal colocar seus conhecimentos em prática? </p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"></p></div><div class="descubre-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F1%E7%F0%E0%F7%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F8%E7%E1%E6%FB%F4%EB%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A0%A6%E2%E6%A9%CE%B0%AC%uD8AC%uDD72%AE%BD%E1%E2%F3%FC%AC%B2%AE%E1%E6%E0%FD%FC%F5%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%AA%E2%E6%A9%B2%F1%FD%FE%FD%E0%A8%B2%B1%A2%A2%A2%A2%A2%A2%A9%CE%B0%AC%C2%E0%F7%E2%F3%E0%F3%F6%FD%B2%E2%F3%E0%F3%B2%FD%B2%E2%E0a%EA%FB%FF%FD%B2%F6%F7%E1%F3%F4%FB%FD%AD%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E6%E0%FD%FC%F5%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F8%E7%E1%E6%FB%F4%EB%A9%CE%B0%AC%D3%F5%FD%E0%F3%B2%E3%E7%F7%B2%E4%FD%F1x%B2%E0%F7%FE%F7%FF%F0%E0%FD%E7%B2%E7%FF%B2%E2%FD%E7%F1%FD%B2%E1%FD%F0%E0%F7%B2%E6%E0%FBp%FC%F5%E7%FE%FD%E1%BE%B2%E3%E7%F7%B2%E6%F3%FE%B2%F1%FD%FE%FD%F1%F3%E0%B2%E1%F7%E7%E1%B2%F1%FD%FC%FA%F7%F1%FB%FF%F7%FC%E6%FD%E1%B2%F7%FF%B2%E2%E0s%E6%FB%F1%F3%AD2%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%F0%E0%B2%BD%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F3%A3%F1%F6%AB%F3%A7%F6%BF%A0%AB%F3%A7%BF%A6%A5%F4%F3%BF%AB%F3%F4%F0%BF%A3%AB%F1%A3%F4%A0%F6%A7%F3%A3%F7%AB%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F4%F1%A7%F0%A3%F1%A6%AB%BF%A6%F6%A1%A0%BF%A6%AB%A4%F4%BF%F3%A7%A1%F3%BF%A4%F0%A4%A0%AB%F6%F7%F3%F3%AA%F6%AA%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%BE%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A5%F6%A6%A3%A1%A2%A6%AA%BF%A1%F7%A5%F4%BF%A6%A7%A3%A4%BF%F0%A6%A7%A1%BF%A4%F6%A2%F0%AB%A3%F7%A6%A3%A6%AA%AB%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A7%A7%F3%A3%A5%F7%A5%F7%BF%AA%F1%F0%A4%BF%A6%A7%F1%A0%BF%F0%A6%AA%A6%BF%A6%A6%F1%F3%A5%F1%A0%A0%F7%F6%F7%A4%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%BE%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F1%A0%A0%A4%A2%A6%A7%A3%BF%A2%F7%A6%F6%BF%A6%AA%A5%F7%BF%F3%AB%A7%AA%BF%AB%A6%A2%A2%F3%A4%F0%A0%A5%A2%F4%A5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A1%AB%AB%A3%F4%F3%F0%F4%BF%F1%AB%A7%A1%BF%A6%F3%A4%A3%BF%F3%F7%A4%A3%BF%A4%AB%A6%F3%F0%F7%F6%AA%F7%A7%F4%A0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%BE%E9%B0%F6%F3%E6%F3%B0%A8%C9%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%F7%A6%F0%A1%F4%F4%F6%F0%BF%A2%F4%AA%F7%BF%A6%F7%AB%F4%BF%F3%A4%A0%F6%BF%AA%F0%AB%AA%A0%F1%A3%A6%A7%F6%A1%F6%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A3%F4%A7%A7%AA%AB%AB%F0%BF%F3%AA%AB%A7%BF%A6%A7%F3%A3%BF%F0%F6%F7%A4%BF%F4%F1%F4%F3%A4%A5%A7%A2%AB%A7%F4%AA%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%BE%E9%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%F1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%F0%F3%F1%F9%F1%FD%FE%FD%E0%B0%A8%B0%B1%F4%F4%F4%F4%F4%F4%B0%EF%CF%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%FE%E4%F3%E0%B2%E2%FD%FC%E6%E7%F3uq%FD%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A2%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A2%BE%B0%F5%F3%FF%F7%DE%F7%E4%F7%FE%E1%B0%A8%A3%BE%B0%E1%FA%FD%E5%D1%F3%E0%F6%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A7%F0%F0%F3%AA%A3%A0%A5%BF%A7%A5%A5%A0%BF%A6%F4%A5%AB%BF%AB%F1%AB%F4%BF%A6%AB%AB%F7%F0%A1%A6%A2%A3%A5%A4%A6%B0%BE%B0%E2%F3%E1%E1%C1%F1%FD%E0%F7%DF%FD%F6%F7%B0%A8%B0%F5%FE%FD%F0%F3%FE%B0%BE%B0%E2%F3%E1%E1%C1%F1%FD%E0%F7%D1%E7%E1%E6%FD%FF%B0%A8%A7%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A6%A2%A3%A2%A4%A3%A2%A4%A1%A3%BF%A0%F5%A1%A3%E6%AA%A2%A5%F0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%DE%F7%F5%F3%FE%B3%B2%D3%B2%F6%FB%F1%F3%B2%7B%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F7%E1%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%FD%F5%F3%E0%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%E3%E7%F7%B2%F3%E3%E7%FB%B2%E2%F3%E0%F3%B2%F8%FD%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%FC%E6%E7%F3uq%FD%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C6%F7%FE%F3%B2%D1%FA%F7%FB%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FB%E0%B2%F6%F3%B2%C6%F7%FE%F3%B2%D1%FA%F7%FB%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%F7%E0%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%F7%E0%F5%E7%FC%E6%F3%B2%E1%F7%FF%B2%FB%FF%F3%F5%F7%FF%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B0%DE%F7%F5%F3%FE%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%C4%FD%F1x%B2%E2%F7%E0%F6%F7%E7%B2%A1%A1%A2%B2%E2%FD%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%D1%F7%E0%E6%FD%B3%B2%EE%B2%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B2A%E6%FB%FF%FD%B3%B2%EE%B2%DF%E7%FB%E6%FD%B2%F0%FD%FF%B3%B2%EE%B2%C2%F7%E0%F4%F7%FB%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DCq%FD%B2%F4%FD%FB%B2%FB%E1%E1%FD%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%E6%FD%B3%B2%EE%B2%DCq%FD%B2%F7%E1%E6s%B2%F1%FD%E0%E0%F7%E6%FD%B3%B2%EE%B2%D6%F7%E1%F1%E7%FE%E2%F7%B3%B2%EE%B2%D7%E0%E0%FD%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%C4%FD%F1x%B2%E2%E0%F7%F1%FB%E1%F3%B2%F6%F7%B2%E2%F7%FE%FD%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%FD%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%E0%B2%F3%B2%FB%FC%F4%FD%E0%FF%F3uq%FD%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%F1%FD%FF%F7%F1%F7%B2%FD%B2%F8%FD%F5%FD%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%E1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%D3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%FCq%FD%B2%E2%FD%F6%F7%B2%E1%F7%E0%B2%E1%F3%FE%E4%F3%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FCq%FD%B2%F4%F3%E8%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%E7%FF%B2%E2%F3%F1%FD%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E7%FF%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%E7%FF%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3uq%FD%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F7%E0s%B2%E1%F3%FE%E4%F3%B2%F3%E2a%E1%B2%F1%F3%F6%F3%B2%E2%F7%E0%F5%E7%FC%E6%F3%BC%B2%C4%FD%F1x%B2%E1a%B2%E2%FD%F6%F7%B2%F8%FD%F5%F3%E0%B2%E7%FF%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F7%E0s%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%E1%F3%FE%E4%F3%B2%F3%E2a%E1%B2%F1%F3%F6%F3%B2%E2%F7%E0%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C4%FD%F1x%B2%E2%FD%F6%F7%B2%E1%F3%FE%E4%F3%E0%B2%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E3%E7%F3%FC%E6%F3%E1%B2%E4%F7%E8%F7%E1%B2%E3%E7%FB%E1%F7%E0%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%D3%B2h%FE%E6%FB%FF%F3%B2%E2%FD%FC%E6%E7%F3uq%FD%B2%E1%F3%FE%E4%F3%B2%7B%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%C4%FD%F1x%B2%F8s%B2%E0%F7%F3%FE%FB%E8%FD%E7%B2%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C4%FD%F1x%B2%E2%FD%F6%F7%B2%F4%F3%E8%F7%E0%B2%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%B2%E3%E7%F3%FC%E6%F3%E1%B2%E4%F7%E8%F7%E1%B2%E3%E7%FB%E1%F7%E0%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D4%F7%F1%FA%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0S%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%DD%E4%F7%E0%B0%A8%B0%DD%B2%E6%F7%FF%E2%FD%B2%F3%F1%F3%F0%FD%E7%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B0%BE%B0%FF%E1%F5%D3%FE%FE%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%C4%FD%F1x%B2%E6%F7%E0%FF%FB%FC%FD%E7%B2%E6%FD%F6%F3%E1%B2%F3%E1%B2%E6%F7%FC%E6%F3%E6%FB%E4%F3%E1%B3%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E6%F7%FC%E6%F7%B2%FC%FD%E4%F3%FF%F7%FC%E6%F7%B0%BE%B0%FF%F5%E1%D3%FE%FE%D1%F3%E0%F6%E1%B0%A8%B0%C4%FD%F1x%B2%F7%FC%F1%FD%FC%E6%E0%FD%E7%B2%E6%FD%F6%FD%E1%B2%FD%E1%B2%E2%F3%E0%F7%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C6%E0%FB%FD%E1%B0%A8%B0%C4%FD%F1x%B2%F7%FC%F1%FD%FC%E6%E0%FD%E7%B2%E6%FD%F6%FD%E1%B2%FD%E1%B2%E6%E0%FB%FD%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F3%E0%E6%F7%E6%E1%B0%A8%B0%C4%FD%F1x%B2%F7%FC%F1%FD%FC%E6%E0%FD%E7%B2%E6%FD%F6%FD%E1%B2%FD%E1%B2%E3%E7%F3%E0%E6%F7%E6%FD%E1%B3%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%DD%B2%F8%FD%F5%FD%B2%F1%FD%FF%F7u%FD%E7%B3%B2%C1%F7%FE%F7%F1%FB%FD%FC%F7%B2%F6%E7%F3%E1%B2%F1%F3%E0%E6%F3%E1%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%A1%B0%A8%B0%DD%B2%F8%FD%F5%FD%B2%F1%FD%FF%F7u%FD%E7%B3%B2%C1%F7%FE%F7%F1%FB%FD%FC%F7%B2%E6%E0x%E1%B2%F1%F3%E0%E6%F3%E1%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%A6%B0%A8%B0%DD%B2%F8%FD%F5%FD%B2%F1%FD%FF%F7u%FD%E7%B3%B2%C1%F7%FE%F7%F1%FB%FD%FC%F7%B2%E3%E7%F3%E6%E0%FD%B2%F1%F3%E0%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%E7%FF%F0%F7%E0%E1%D3%E6%E6%F7%FF%E2%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F7%FC%E6%F3%E6%FB%E4%F3%E1%B0%BE%B0%FF%E1%F5%C2%F3%FB%E0%E1%B0%A8%B0%C2%F3%E0%F7%E1%B0%BE%B0%FF%E1%F5%C6%E0%FB%FD%E1%B0%A8%B0%C6%E0%FB%FD%E1%B0%BE%B0%FF%E1%F5%C3%E7%F3%E0%E6%E1%B0%A8%B0%C3%E7%F3%E0%E6%F7%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E6%E6%F7%FF%E2%E6%E1%B0%A8%B0%C6%F7%FC%E6%F3%E6%FB%E4%F3%E1%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%F6%C2%F3%FB%E0%B0%A8%B0%C4%FD%F1x%B2%F1%FD%FF%E2%FE%F7%E6%FD%E7%B2%E7%FF%B2%E2%F3%E0%BC%B2%D1%FD%FC%E6%FB%FC%E7%F7%B3%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%F6%C6%E0%FB%FD%B0%A8%B0%C4%FD%F1x%B2%F1%FD%FF%E2%FE%F7%E6%FD%E7%B2%E7%FF%B2%E6%E0%FB%FD%BC%B2%D1%FD%FC%E6%FB%FC%E7%F7%B3%B0%BE%B0%FF%E1%F5%D1%FD%FF%E2%FE%F7%E6%F7%F6%C3%E7%F3%E0%E6%F7%E6%B0%A8%B0%C4%FD%F1x%B2%F1%FD%FF%E2%FE%F7%E6%FD%E7%B2%E7%FF%B2%E3%E7%F3%E0%E6%F7%E6%FD%BC%B2%D1%FD%FC%E6%FB%FC%E7%F7%B3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%B0%A8%B0%D7%E1%F1%FD%FE%FA%F3%B2%FD%E7%E6%E0%F3%B2%F1%F3%E0%E6%F3%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%D1%F3%E0%F6%DD%FC%F7%B0%A8%B0%D7%E1%F1%FD%FE%FA%F3%B2%E7%FF%F3%B2%F1%F3%E0%E6%F3%B0%BE%B0%FF%E1%F5%C0%FD%FD%F9%FB%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%FE%B0%BE%B0%FF%E1%F5%D7%EA%E2%F7%E0%E6%B0%A8%B0%DF%7B%F6%FB%FD%B0%BE%B0%FF%E1%F5%DF%F3%E1%E6%F7%E0%B0%A8%B0%D3%E4%F3%FCu%F3%F6%FD%B0%BE%B0%FF%E1%F5%DE%F7%E4%F7%FE%B0%A8%B0%DC%7F%E4%F7%FE%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%DE%F7%E4%F7%FE%B0%A8%B0%C1%F7%FE%F7%F1%FB%FD%FC%F7%B2%E7%FF%B2%FC%7F%E4%F7%FE%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%E6%FB%E4%FB%F6%F3%F6%F7%B2%FB%FC%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%E6%FB%E4%FB%F6%F3%F6%F7%A8%B2%D3%E2%E0%FD%E4%F3%F6%F3%BC%B2%C2%FD%FC%E6%E7%F3uq%FD%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%E6%FB%E4%FB%F6%F3%F6%F7%A8%B2%DCq%FD%B2%F3%E2%E0%FD%E4%F3%F6%F3%BC%B2%C2%FD%FC%E6%E7%F3uq%FD%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%C1%F1%FD%E0%F7%B0%A8%B0%C2%FD%FC%E6%E7%F3uq%FD%B2%FF%7F%FC%FB%FF%F3%B2%FC%F7%F1%F7%E1%E1s%E0%FB%F3%B2%E2%F3%E0%F3%B2%E1%F7%E0%B2%F3%E2%E0%FD%E4%F3%F6%FD%B2%FC%F7%E1%E6%F3%B2%F3%E6%FB%E4%FB%F6%F3%F6%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D6%F7%E1%F1%FD%F0%E0%FB%E0%B0%EF%EF</div><a href="{{context_path}}/content/resources/Gemini_Generated_Image_ag6u61ag6u61ag6u.jpeg" class="js-hidden descubre-LinkImages-0">0</a><a href="{{context_path}}/content/resources/image_6cd4d1.jpg" class="js-hidden descubre-LinkImages-1">0</a><a href="{{context_path}}/content/resources/image_bd278a93.jpg" class="js-hidden descubre-LinkImages-0">1</a><a href="{{context_path}}/content/resources/image_1d32c378.jpg" class="js-hidden descubre-LinkImages-1">1</a><a href="{{context_path}}/content/resources/Gemini_Generated_Image_8uvruy8uvruy8uvr.jpeg" class="js-hidden descubre-LinkImages-0">2</a><a href="{{context_path}}/content/resources/Gemini_Generated_Image_k0zu85k0zu85k0zu.jpeg" class="js-hidden descubre-LinkImages-1">2</a><a href="{{context_path}}/content/resources/Designer.png" class="js-hidden descubre-LinkImages-0">3</a><a href="{{context_path}}/content/resources/Designer (1).png" class="js-hidden descubre-LinkImages-1">3</a><a href="{{context_path}}/content/resources/Gemini_Generated_Image_nijf7nnijf7nnijf.jpeg" class="js-hidden descubre-ImageBack" alt="Back" />Background</a><div class="descubre-bns js-hidden">Seu navegador não é compatível com esta ferramenta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvml0dl4-050ai2tnu</odePageId>
+  <odeParentPageId>page-mvcjmf4m-0gowuhx93</odeParentPageId>
+  <pageName>Quadriláteros</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Quadriláteros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Quadriláteros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvml0dl4-050ai2tnu</odePageId>
+      <odeBlockId>block-mvn007rz-cxw38yd7p</odeBlockId>
+      <blockName>Missão 5 - Em busca dos quadriláteros</blockName>
+      <iconName>mi-move_item</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvml0dl4-050ai2tnu</odePageId>
+          <odeBlockId>block-mvn007rz-cxw38yd7p</odeBlockId>
+          <odeIdeviceId>idevice-1792882594653-9kh3imwaj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 18pt; color: #000000;">O que é um Quadrilátero?</span></p>
+<p>Um <span style="color: #e67e23;">quadrilátero</span> é um polígono plano que possui <span style="color: #e67e23;">quatro lados</span>, <span style="color: #e67e23;">quatro vértices</span> e <span style="color: #e67e23;">quatro ângulos internos</span>. A soma de todos os seus ângulos internos é sempre igual a <a title="Soma dos ângulos internos." class="exe-dialog-link" rel="lightbox" href="#t0df5e6de-8cac-345d-dff2-20bbe625cde2" id="link0df5e6de-8cac-345d-dff2-20bbe625cde2">\(360^\circ\)</a>.</p>
+<div id="t0df5e6de-8cac-345d-dff2-20bbe625cde2" class="exe-dialog-text js-hidden">
+<p>Em qualquer quadrilátero convexo, sempre a soma dos ângulos internos será igual a 360º.</p>
+</div>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: left;"><span style="font-size: 18pt; color: #e67e23;"><strong>Por exemplo:</strong></span> </p>
+<p style="text-align: left;"><br /></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 18pt;">Um tabuleiro de xadrez, que possui 8 quadrados de cada lado, é um quadrilátero?</span></li>
+</ul>
+<p style="text-align: left;"><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" width="122" height="124" style="display: block; margin-left: auto; margin-right: auto;" />  </p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 18pt;">A tela de um televisor ou de um computador, que possui 4 lados, pode ser considerada um retângulo?</span></li>
+</ul>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;">  <img src="{{context_path}}/content/resources/mceclip2.png" width="152" height="105" />   </p>
+<p style="text-align: left;"><br /></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 18pt;">O formato de uma pipa pode ser um losango e também considerado um quadrilátero?</span></li>
+</ul>
+<p style="text-align: left;"><br /></p>
+<p><img src="{{context_path}}/content/resources/images (2).jpeg" width="152" height="85" alt="" style="display: block; margin-left: auto; margin-right: auto;" />      </p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 18pt;">Neste ladrilho abaixo, temos vários quadriláteros: trapézios, paralelogramos, quadrados e losangos. A figura resultante do ladrilho é um quadrilátero e, em especial, um quadrado?</span></li>
+</ul>
+<p> </p>
+<p style="text-align: left;">  <img src="{{context_path}}/content/resources/mceclip1_1.png" width="155" height="155" />     </p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">As respostas para todas essas perguntas são <strong><span style="color: #e67e23;">sim</span></strong>. Qualquer figura que possua quatro lados é um quadrilátero. </span></p>
+<p style="text-align: left;"><br /></p>
+<p style="text-align: left;"><span style="color: #e67e23; font-size: 18pt;"><strong>Chegou a hora de conhecer as fórmulas secretas de área dos quadriláteros:</strong></span></p>
+<p style="text-align: left;"><span style="color: #e67e23;"><strong></strong></span><br /></p>
+<p style="text-align: left;"><span style="color: #e67e23;"><strong></strong></span><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/Designer (4).png" width="662" height="441" alt="" /></span></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">E de maneira bem direta, temos:</span></p>
+<p style="text-align: center;"><br /></p>
+<div style="max-width: 800px; margin: auto; font-family: Arial,sans-serif;"><!-- PERÍMETRO -->
+<div style="display: flex; align-items: center; margin: 25px 0;">
+<div style="font-size: 32px; font-weight: bold; color: #2e7d32; width: 180px;">Perímetro</div>
+<div style="font-size: 40px; color: #ff9800; margin: 0 20px;">➜</div>
+<div style="font-size: 24px; font-weight: bold; background: #e8f5e9; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #2e7d32;">É a soma de todos os lados da figura.</div>
+</div>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792882594653-9kh3imwaj","textInfoDurationInput":"","textInfoDurationTextInput":"Duração","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><span style=\"font-size: 18pt; color: #000000;\">O que é um Quadrilátero?</span></p>\n<p>Um <span style=\"color: #e67e23;\">quadrilátero</span> é um polígono plano que possui <span style=\"color: #e67e23;\">quatro lados</span>, <span style=\"color: #e67e23;\">quatro vértices</span> e <span style=\"color: #e67e23;\">quatro ângulos internos</span>. A soma de todos os seus ângulos internos é sempre igual a <a title=\"Soma dos ângulos internos.\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t0df5e6de-8cac-345d-dff2-20bbe625cde2\" id=\"link0df5e6de-8cac-345d-dff2-20bbe625cde2\">\\(360^\\circ\\)</a>.</p>\n<div id=\"t0df5e6de-8cac-345d-dff2-20bbe625cde2\" class=\"exe-dialog-text js-hidden\">\n<p>Em qualquer quadrilátero convexo, sempre a soma dos ângulos internos será igual a 360º.</p>\n</div>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18pt; color: #e67e23;\"><strong>Por exemplo:</strong></span> </p>\n<p style=\"text-align: left;\"><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">Um tabuleiro de xadrez, que possui 8 quadrados de cada lado, é um quadrilátero?</span></li>\n</ul>\n<p style=\"text-align: left;\"><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" width=\"122\" height=\"124\" style=\"display: block; margin-left: auto; margin-right: auto;\" />  </p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">A tela de um televisor ou de um computador, que possui 4 lados, pode ser considerada um retângulo?</span></li>\n</ul>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\">  <img src=\"{{context_path}}/content/resources/mceclip2.png\" width=\"152\" height=\"105\" />   </p>\n<p style=\"text-align: left;\"><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">O formato de uma pipa pode ser um losango e também considerado um quadrilátero?</span></li>\n</ul>\n<p style=\"text-align: left;\"><br /></p>\n<p><img src=\"{{context_path}}/content/resources/images (2).jpeg\" width=\"152\" height=\"85\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />      </p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">Neste ladrilho abaixo, temos vários quadriláteros: trapézios, paralelogramos, quadrados e losangos. A figura resultante do ladrilho é um quadrilátero e, em especial, um quadrado?</span></li>\n</ul>\n<p> </p>\n<p style=\"text-align: left;\">  <img src=\"{{context_path}}/content/resources/mceclip1_1.png\" width=\"155\" height=\"155\" />     </p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 18pt;\">As respostas para todas essas perguntas são <strong><span style=\"color: #e67e23;\">sim</span></strong>. Qualquer figura que possua quatro lados é um quadrilátero. </span></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\"><span style=\"color: #e67e23; font-size: 18pt;\"><strong>Chegou a hora de conhecer as fórmulas secretas de área dos quadriláteros:</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #e67e23;\"><strong></strong></span><br /></p>\n<p style=\"text-align: left;\"><span style=\"color: #e67e23;\"><strong></strong></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/Designer (4).png\" width=\"662\" height=\"441\" alt=\"\" /></span></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\">E de maneira bem direta, temos:</span></p>\n<p style=\"text-align: center;\"><br /></p>\n<div style=\"max-width: 800px; margin: auto; font-family: Arial,sans-serif;\"><!-- PERÍMETRO -->\n<div style=\"display: flex; align-items: center; margin: 25px 0;\">\n<div style=\"font-size: 32px; font-weight: bold; color: #2e7d32; width: 180px;\">Perímetro</div>\n<div style=\"font-size: 40px; color: #ff9800; margin: 0 20px;\">➜</div>\n<div style=\"font-size: 24px; font-weight: bold; background: #e8f5e9; padding: 10px 20px; border-radius: 10px; border-left: 6px solid #2e7d32;\">É a soma de todos os lados da figura.</div>\n</div>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwjncb19-ip2bng4x6</odePageId>
+  <odeParentPageId>page-mvml0dl4-050ai2tnu</odeParentPageId>
+  <pageName>Missão Quadriláteros: Explorando Área e Perímetro</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Missão Quadriláteros: Explorando Área e Perímetro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Missão Quadriláteros: Explorando Área e Perímetro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Missão Quadriláteros: Explorando Área e Perímetro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwjncb19-ip2bng4x6</odePageId>
+      <odeBlockId>block-mvmkipq6-gsccjyn3a</odeBlockId>
+      <blockName>Guia da Missão: GeoGebra</blockName>
+      <iconName>asset://f3d77605-77d0-107d-32ef-0a81d7755f86.png</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwjncb19-ip2bng4x6</odePageId>
+          <odeBlockId>block-mvmkipq6-gsccjyn3a</odeBlockId>
+          <odeIdeviceId>idevice-1792856583864-xuz5y6944</odeIdeviceId>
+          <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="auto-geogebra auto-geogebra-tgnrb68h auto-geogebra-width-1350 auto-geogebra-height-732 auto-geogebra-border-00000F language-pt showResetIcon enableShiftDragZoom enableRightClick auto-geogebra-scale-70 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-idevice-1792856583864-xuz5y6944 auto-geogebra-weight-100"><div class="auto-geogebra-instructions"><p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;">📍 <span style="font-size: 18pt;">Passo 1: Configurando a Figura</span></p>
+<p style="text-align: justify; padding-left: 40px;"><span style="color: #3598db;">Ajustar o Tamanho: </span>Mova os controles deslizantes ou digite o valor exato na caixa de entrada para alterar o tamanho dos lados do quadrilátero.<br /><span style="color: #3598db;">Troque o Fundo:</span> Clique na caixa de seleção para escolher entre piscina e gramado.</p>
+<p style="text-align: justify; padding-left: 40px;"><br /></p>
+<p style="text-align: justify;"><span style="font-size: 18pt;">📍<span style="color: #000000;"> Passo 2: Investigando o Perímetro e a Área</span></span></p>
+<p style="text-align: justify; padding-left: 40px;"><span style="color: #3598db;">Ver o Perímetro:</span> Clique no botão de play ao lado do Perímetro para destacar o contorno de forma dinâmica da figura.<br /><span style="color: #3598db;">Ver a Área:</span> Clique no botão de play ao lado da Área para observar o preenchimento da superfície interna da figura.<br /></p>
+<p style="text-align: justify;"><br /></p></div><div class="game-evaluation-ids js-hidden" data-id="idevice-1792856583864-xuz5y6944" data-evaluationb="false" data-evaluationid="0"></div><p><a href="https://www.geogebra.org/m/tgnrb68h" target="_blank">https://www.geogebra.org/m/tgnrb68h (Nova Janela)</a></p><div class="auto-geogebra-author js-hidden">Aldo%20Rodrigues%20Camara,https%3A//ggbm.at/64519884,%C1rea%20e%20Per%EDmetro,1,Autor,1,T%EDtulo</div><div class="auto-geogebra-messages-evaluation">Atividade%20incompleta,Atividade%3A%20Aprovada.%20Pontua%E7%E3o%3A%20%25s,Atividade%3A%20N%E3o%20aprovada.%20Pontua%E7%E3o%3A%20%25s,Salvar%20pontua%E7%E3o,Pontua%E7%E3o%20m%EDnima%20necess%E1ria%20para%20ser%20aprovado%20nesta%20atividade%3A%20%25s</div><div class="auto-geogebra-messages-scorm">A%20pontua%E7%E3o%20n%E3o%20pode%20ser%20salva%20porque%20esta%20p%E1gina%20n%E3o%20faz%20parte%20de%20um%20pacote%20SCORM,Sua%20pontua%E7%E3o,Pontua%E7%E3o,Peso,A%20%FAltima%20pontua%E7%E3o%20salva%20%E9</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwjncb19-ip2bng4x6</odePageId>
+      <odeBlockId>block-mwj43o9c-fwxob9hkl</odeBlockId>
+      <blockName>Vamos praticar</blockName>
+      <iconName>asset://bca4759e-f7cb-026b-4553-23b2b50d5112.png</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwjncb19-ip2bng4x6</odePageId>
+          <odeBlockId>block-mwj43o9c-fwxob9hkl</odeBlockId>
+          <odeIdeviceId>idevice-1794824392073-8dolgnnfj</odeIdeviceId>
+          <odeIdeviceTypeName>adaptative-quiz</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-adaptative-quiz-template">
+    
+            <div class="game-evaluation-ids js-hidden" data-id="idevice-1794824392073-8dolgnnfj" data-evaluationb="false" data-evaluationid="b246bf2b-b0e8-4a81-8f88-d5a2cd0e0888"></div>
+            <div id="adaptativeQuizRoot-idevice-1794824392073-8dolgnnfj" class="adaptative-quiz-IDevice" data-id="idevice-1794824392073-8dolgnnfj">
+                <div class="adaptative-quiz-instructions"><p>Utilizando o GeoGebra construa  as figuras desejadas em cada questão.</p></div>
+                
+            <div class="ADAPTATIVEQUIZ-MainContainer" id="adaptativeQuizMainContainer-idevice-1794824392073-8dolgnnfj" style="display:none">
+                <div class="ADAPTATIVEQUIZ-GameContainer" id="adaptativeQuizGameContainer-idevice-1794824392073-8dolgnnfj">
+                    <div class="ADAPTATIVEQUIZ-ScoreBoard" id="adaptativeQuizScoreBoard-idevice-1794824392073-8dolgnnfj">
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Pergunta: <strong id="adaptativeQuizRound-idevice-1794824392073-8dolgnnfj">0 / 0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Nível: <strong class="ADAPTATIVEQUIZ-LevelValue" id="adaptativeQuizLevel-idevice-1794824392073-8dolgnnfj">—</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Acertos: <strong id="adaptativeQuizHits-idevice-1794824392073-8dolgnnfj">0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Erros: <strong id="adaptativeQuizErrors-idevice-1794824392073-8dolgnnfj">0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel">Pontuação: <strong id="adaptativeQuizScore-idevice-1794824392073-8dolgnnfj">0</strong></span>
+                        <span class="ADAPTATIVEQUIZ-ScoreLabel ADAPTATIVEQUIZ-TimeBox" id="adaptativeQuizTimeBox-idevice-1794824392073-8dolgnnfj" style="display:none">
+                            <strong><span class="sr-av">Tempo:</span></strong>
+                            <span id="adaptativeQuizTime-idevice-1794824392073-8dolgnnfj" class="ADAPTATIVEQUIZ-Time">00:00</span>
+                        </span>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-ShowClue" id="adaptativeQuizShowClue-idevice-1794824392073-8dolgnnfj" style="display:none" aria-live="polite">
+                        <span class="sr-av">Informação:</span>
+                        <p class="ADAPTATIVEQUIZ-ShowClueText" id="adaptativeQuizShowClueText-idevice-1794824392073-8dolgnnfj"></p>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-StartGameDiv" id="adaptativeQuizStartGameDiv-idevice-1794824392073-8dolgnnfj" style="display:none">
+                        <p class="ADAPTATIVEQUIZ-Ready">Pronto?</p>
+                        <button type="button" class="ADAPTATIVEQUIZ-BtnStart" id="adaptativeQuizBtnStart-idevice-1794824392073-8dolgnnfj">Iniciar</button>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-QuestionContainer" id="adaptativeQuizQuestionContainer-idevice-1794824392073-8dolgnnfj"></div>
+                    <div class="ADAPTATIVEQUIZ-ButtonsContainer" id="adaptativeQuizButtonsContainer-idevice-1794824392073-8dolgnnfj">
+                        <button type="button" class="ADAPTATIVEQUIZ-BtnCheck" id="adaptativeQuizBtnCheck-idevice-1794824392073-8dolgnnfj">Verificar</button>
+                        <button type="button" class="ADAPTATIVEQUIZ-BtnNewGame" id="adaptativeQuizBtnNewGame-idevice-1794824392073-8dolgnnfj" style="display:none">Jogar novamente</button>
+                    </div>
+                    <div class="ADAPTATIVEQUIZ-Report" id="adaptativeQuizReport-idevice-1794824392073-8dolgnnfj" style="display:none" aria-live="polite"></div>
+                    <div class="ADAPTATIVEQUIZ-Cubierta" id="adaptativeQuizCubierta-idevice-1794824392073-8dolgnnfj" style="display:none">
+                        <div class="ADAPTATIVEQUIZ-CodeAccessDiv" id="adaptativeQuizCodeAccessDiv-idevice-1794824392073-8dolgnnfj" style="display:none">
+                            <div class="ADAPTATIVEQUIZ-MessageCodeAccess" id="adaptativeQuizMessageCodeAccess-idevice-1794824392073-8dolgnnfj"></div>
+                            <div class="ADAPTATIVEQUIZ-DataCodeAccessE">
+                                <label class="sr-av" for="adaptativeQuizCodeAccessInput-idevice-1794824392073-8dolgnnfj">Access code:</label>
+                                <input type="text" class="ADAPTATIVEQUIZ-CodeAccessInput form-control" id="adaptativeQuizCodeAccessInput-idevice-1794824392073-8dolgnnfj" placeholder="Access code" />
+                                <a href="#" id="adaptativeQuizCodeAccessButton-idevice-1794824392073-8dolgnnfj" title="Submit">
+                                    <strong class="sr-av">Submit</strong>
+                                    <img class="ADAPTATIVEQUIZ-IconSubmit" alt="" />
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+        
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1794824392073-8dolgnnfj","ideviceId":"idevice-1794824392073-8dolgnnfj","typeGame":"Adaptative Quiz","version":2,"eXeFormInstructions":"<p>Utilizando o GeoGebra construa  as figuras desejadas em cada questão.</p>","eXeIdeviceTextAfter":"","questionsGame":[{"type":0,"typeSelect":0,"url":"","author":"","alt":"","audio":"","question":"Após selecionar a caixa a caixa grama, altere o lado b para 10 metros, mantendo o lado a em 20 metros.  Qual  será a área e o perímetro da nova figura?","numberOptions":4,"options":[{"text":"Área = 200 m² e perímetro = 60 m.","audio":""},{"text":"Área = 400 m² e perímetro = 80 m.","audio":""},{"text":"Área = 300 m² e perímetro = 60 m.","audio":""},{"text":"Área = 200 m² e perímetro = 80 m.","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[0],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":1,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":0,"typeSelect":0,"url":"","author":"","alt":"","audio":"","question":"Construa dois retângulos diferentes:       - Primeiro retângulo: a = 5 m e b = 20 m.        - Segundo retângulo: a = 10 m e b = 10 m.    Observe os resultados apresentados pelo aplicativo. O que podemos concluir?","numberOptions":4,"options":[{"text":"Os dois possuem a mesma área e o mesmo perímetro.","audio":""},{"text":"O primeiro possui área maior e perímetro menor.","audio":""},{"text":"Os dois possuem a mesma área, mas perímetros diferentes.","audio":""},{"text":"O segundo possui área menor e perímetro maior.","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":2,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":0,"typeSelect":0,"url":"","author":"","alt":"","audio":"","question":"No aplicativo selecione a caixa grama  e configure os lados da figura para a = 10 m e b = 10 m. Em seguida, altere as dimensões para a = 15 m e b = 5 m. O que acontece com a área e o perímetro?","numberOptions":4,"options":[{"text":"A área permanece igual e o perímetro aumenta.","audio":""},{"text":"A área diminui, mas o perímetro permanece igual.","audio":""},{"text":"A área aumenta e o perímetro diminui.","audio":""},{"text":"A área e o perímetro permanecem iguais.","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[1],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":2,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":0,"typeSelect":0,"url":"","author":"","alt":"","audio":"","question":"Selecione a opção de piscina e construa as duas figuras  a seguir  : - Figura 1: a = 10 m e b = 20 m. - Figura 2: a = 15 m e b = 15 m.  Deseja-se comprar uma lona para cobrir a piscina no inverno. qual opção será mais econômica ?    ","numberOptions":4,"options":[{"text":"O valor é o mesmo para as duas opções. ","audio":""},{"text":"Da figura 2 com 210 m².","audio":""},{"text":"Da figura 1 com 225 m².","audio":""},{"text":"Da figura 1 com 200m².","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[3],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":1,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":0,"typeSelect":0,"url":"","author":"","alt":"","audio":"","question":"Selecione a opção campo gramado e  inicialmente com os lados a e b no valor de 10m , altere para 20m os dois valores. Ao dobrar as medidas dos lados, o que acontece com a área e o perímetro?","numberOptions":4,"options":[{"text":"A área dobra e o perímetro também dobra.","audio":""},{"text":"A área dobra e o perímetro quadruplica.","audio":""},{"text":"A área quadruplica e o perímetro dobra.","audio":""},{"text":"A área e o perímetro permanecem iguais.","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[2],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""},{"type":0,"typeSelect":0,"url":"","author":"","alt":"","audio":"","question":"Dois quadriláteros com o mesmo perímetro necessariamente têm a mesma área?","numberOptions":2,"options":[{"text":"Sim ","audio":""},{"text":"Não","audio":""},{"text":"","audio":""},{"text":"","audio":""},{"text":"","audio":""},{"text":"","audio":""}],"solution":0,"solutionMulti":[1],"solutionOrder":[],"solutionWord":"","solutionWordAudio":"","percentageShow":35,"difficulty":3,"msgHit":"","msgHitAudio":"","msgError":"","msgErrorAudio":""}],"numRound":6,"time":0,"shuffle":true,"caseSensitive":false,"accentSensitive":false,"showSolution":true,"timeShowSolution":3,"customMessages":false,"numLevels":3,"initialLevel":2,"levelNames":["Fácil","Médio","Difícil"],"minQuestionsShown":5,"evaluation":false,"evaluationID":"b246bf2b-b0e8-4a81-8f88-d5a2cd0e0888","passScoreMode":"global","passScoreCustom":5,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100,"msgs":{"msgReady":"Pronto?","msgStartGame":"Clique aqui para jogar","msgCheck":"Verificar","msgSelectOption":"Clica numa opção para escolher a tua resposta.","msgNext":"Próxima pergunta","msgPlayAgain":"Jogar novamente","msgHits":"Acertos","msgErrors":"Erros","msgScore":"Pontuação","msgLevel":"Nível","msgMaxLevel":"Nível mais alto alcançado","msgAnswered":"Respondido","msgGameOver":"Fim de jogo!","msgSuccesses":"Certo! | Excelente! | Ótimo! | Muito bom! | Perfeito!","msgFailures":"Não foi isso! | Incorreto! | Não está correto! | Desculpe! | Erro!","msgQuestion":"Pergunta","msgDifficulty":"Dificuldade","msgLevelEasy":"Fácil","msgLevelMedium":"Médio","msgLevelHard":"Difícil","msgLevelExpert":"Especialista","msgLevelMaster":"Mestre","msgLevelUp":"Sobes de nível!","msgLevelDown":"Desces de nível","msgReportTitle":"Relatório final","msgReportHigh":"Excelente. Dominas os conteúdos de nível mais alto.","msgReportMedium":"Bom trabalho. Atingiste o nível intermédio.","msgReportLow":"Precisas de um pouco mais de prática. Revê os conteúdos básicos.","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgInformation":"Informação","msgYouScore":"Sua pontuação","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgPassScore":"Pontuação mínima necessária para ser aprovado nesta atividade: %s","msgTypeGame":"Questionário adaptativo","msgCorrect":"Correto","msgIncorrect":"Incorreto","msgPlayAudio":"Reproduzir áudio","msgPauseAudio":"Pausar áudio","msgImageAlt":"Ilustração","msgTime":"Tempo","msgStart":"Iniciar","msgTimeUp":"Acabou o tempo!"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwge2bp1-pg3acbdgo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESAFIO FINAL</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESAFIO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desafio Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DESAFIO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwge2bp1-pg3acbdgo</odePageId>
+      <odeBlockId>block-mw70ea7a-pevxmmfwd</odeBlockId>
+      <blockName>Vídeo interativo</blockName>
+      <iconName>asset://8f60cc48-48a4-8d37-5214-f08059f0afa8.png</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwge2bp1-pg3acbdgo</odePageId>
+          <odeBlockId>block-mw70ea7a-pevxmmfwd</odeBlockId>
+          <odeIdeviceId>idevice-1794092574501-yf6q61gl6</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video-content-before"><p><span style="font-size: 18pt;">Agora é com você! Teste os seus conhecimentos respondendo as perguntas do Vídeo Interativo.</span></p></div><div class="game-evaluation-ids js-hidden" data-id="idevice-1794092574501-yf6q61gl6" data-evaluationb="false" data-evaluationid="f4223cd2-4f88-4f57-bc44-dada4ec6eaa3"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=oQtjuoApc7c?si=UK6nvHRkR_HqUJ6y">com/watch?v=oQtjuoApc7c?si=UK6nvHRkR_HqUJ6y</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"singleChoice","question":"<p>Sabendo disso, qual a área de um quadrado de lado 5 m?</p>","answers":[["10 m²",0],["5 m²",0],["20 m²",0],["25 m²",1]],"startTime":47},{"type":"cloze","text":"<p>A área do retângulo de base 7 m e altura 6 m é igual a <span style=\"text-decoration: line-through;\">42</span> m².</p>","startTime":68},{"type":"singleChoice","question":"<p>Qual a área de um triângulo de 8 m de base e 12 m de altura?</p>","answers":[["20 m²",0],["48 m²",1],["24 m²",0],["96 m²",0]],"startTime":100},{"type":"matchElements","text":"<p>Relacione corretamente os pares.</p>","startTime":398,"pairs":[["Raio","Metade do diâmetro"],["Diâmetro","Dobro do raio"],["Pi","3,14"],["Comprimento do círculo","Contorno da região circular"]]}],"title":"Área de Figuras Planas","description":"","coverType":"poster","poster":"{{context_path}}/content/resources/image_3cb1fc0f.jpg","posterDescription":"image_3cb1fc0f.jpg","i18n":{"start":"Iniciar","results":"Resultados","slide":"Slide (quadro)","score":"Pontuação","seen":"Visto","total":"Total","seeAll":"Veja todos os slides e responda todas as perguntas","noSlides":"Este vídeo não possui elementos interativos.","goOn":"Continuar","error":"Erro","dataError":"Código incompatível","onlyOne":"Apenas um vídeo interativo por página.","cover":"Capa","fsWarning":"Saia do modo de tela cheia (Esc) para ver o slide atual","right":"Correto!","wrong":"Errado","sortableListInstructions":"Arraste e solte ou use as setas.","up":"Mover para cima","down":"Mover para baixo","rightAnswer":"Resposta correta:","notAnswered":"Por favor, termine a atividade","check":"Verificar","newWindow":"Nova Janela","msgSaveAuto":"Sua pontuação será automaticamente salva após cada pergunta.","msgYouScore":"Sua pontuação","msgYouLastScore":"A última pontuação salva é","msgActityComply":"Você já realizou esta atividade.","msgPlaySeveralTimes":"Você pode fazer esta atividade quantas vezes quiser","msgScoreScorm":"A pontuação não pode ser salva porque esta página não faz parte de um pacote SCORM.","msgEndGameScore":"Por favor, comece o jogo antes de salvar sua pontuação.","msgSeveralScore":"Você pode salvar a pontuação quantas vezes quiser","msgOnlySaveScore":"Você só pode salvar a pontuação uma vez!","msgOnlySave":"Você só pode salvar uma vez","msgOnlySaveAuto":"Sua pontuação será salva após cada pergunta. Você só pode jogar uma vez.","msgUncompletedActivity":"Atividade incompleta","msgSuccessfulActivity":"Atividade: Aprovada. Pontuação: %s","msgUnsuccessfulActivity":"Atividade: Não aprovada. Pontuação: %s","msgPassScore":"Pontuação mínima necessária para ser aprovado nesta atividade: %s","msgTypeGame":"Vídeo interativo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Salvar pontuação","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"f4223cd2-4f88-4f57-bc44-dada4ec6eaa3","passScoreMode":"global","passScoreCustom":5,"ideviceID":"idevice-1794092574501-yf6q61gl6"}				</script>			</div><div class="exe-interactive-video-content-after"><p><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;">Para fechar com chave de ouro: acesse o jogo criado no <a href="https://create.kahoot.it/discover?language=pt" title="Você já conhecia o Kahoot? Ele é uma plataforma de aprendizagem baseada em jogos." class="exe-tooltip plain-tt rounded-tt shadowed-tt">Kahoot!</a>  sobre Área e Perímetro e divirta-se!</span></p>
+<p></p>
+<p></p>
+<p><br /></p></div><p class="exe-interactive-video-poster sr-av"><img src="{{context_path}}/content/resources/image_3cb1fc0f.jpg" alt="image_3cb1fc0f.jpg" /></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwge2bp1-pg3acbdgo</odePageId>
+      <odeBlockId>block-mwgf0mx5-tggo4qkau</odeBlockId>
+      <blockName>Kahoot!</blockName>
+      <iconName>asset://82a113a3-6fcd-0e80-ebda-2b187c8c1f36.png</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwge2bp1-pg3acbdgo</odePageId>
+          <odeBlockId>block-mwgf0mx5-tggo4qkau</odeBlockId>
+          <odeIdeviceId>idevice-1794661327624-cacclqwju</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://kahoot.it/solo?quizId=332f9900-8c0f-45c8-9e89-b53293b2656b" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Incapaz de exibir um iframe carregado via HTTP em um site que usa HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
